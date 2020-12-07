@@ -269,7 +269,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        'Nunito Sans',
+        'Inter',
         'system-ui',
         '-apple-system',
         'BlinkMacSystemFont',

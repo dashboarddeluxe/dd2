@@ -20,11 +20,11 @@
   --}}
 <span class="bookmark" id="{{ $group->getFilename() }}"></span>
   @if ($group->title)
-    <div class="px-6 py-2 bg-black">
-    <h2 class="font-bold text-2xl"><a href="{{ $group->getUrl() }}" title="Read {{ $group->title }}" class="text-white font-extrabold">{{ $group->title }}</a></h2>
+    <div class="px-4 py-2 bg-gray-800">
+    <h2 class="text-xl"><a href="{{ $group->getUrl() }}" title="Read {{ $group->title }}" class="text-white font-bold">{{ $group->title }}</a></h2>
     </div>
     @endif
-    <div class="px-6 py-4 bg-blue-100">
+    <div class="px-4 py-4 bg-blue-100">
     <p class="text-gray-700 text-base">
       {!! $group !!}
     </p>
