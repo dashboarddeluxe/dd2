@@ -15,6 +15,6 @@ weight: 50
         </div>
         <div>
             <a href="http://shopee.ph/">Shopee</a>
-         | <a href="http://shopee.ph/user/purchase">My Purchase</a>
+         <div class="sm:inline-block"> | <a href="http://shopee.ph/user/purchase">My Purchases</a></div>
      </div>
       </div>
