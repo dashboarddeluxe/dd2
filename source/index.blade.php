@@ -6,7 +6,7 @@
 --}}
 <div class="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4 mb-4">
 @foreach ($groups as $group)
-  <div class="rounded-lg overflow-hidden shadow-lg">
+  <div class="overflow-hidden shadow-lg">
   <div class="shadow-outline h-full">
   {{--
   <img class="w-full" src="/img/post-cover-image-2.png" alt="Sunset in the mountains">
