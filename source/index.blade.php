@@ -38,10 +38,16 @@
                     @if ($group->links)
                     <div class="grid grid-cols-1 xl:grid-cols-2">
                         @foreach ($group->links as $links)
-                        <div>
+                        <div
                             @foreach ($links as $link)
                             @if ($loop->first)
-                            <a href="{!!$link[1]!!}" target="_blank" rel="noopener noreferrer">{{$link[0]}}</a>
+                                @if ($link[1] === "heading")
+                                    class="col-span-2" >
+                                    <div class="font-bold">{{$link[0]}}</div>
+                                @else
+                                    >
+                                    <a href="{!!$link[1]!!}" target="_blank" rel="noopener noreferrer">{{$link[0]}}</a>
+                                @endif
                             @else
                             <div class="sm:inline-block"> | <a href="{{$link[1]}}" target="_blank"
                                     rel="noopener noreferrer">{{$link[0]}}</a></div>

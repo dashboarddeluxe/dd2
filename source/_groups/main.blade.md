@@ -78,5 +78,15 @@ links: [
     [
         [AllSides,http://www.allsides.com/unbiased-balanced-news],
     ],
+    [
+        [E-Commerce,heading],
+    ],
+    [
+    [Lazada,http://lazada.com.ph/],
+    ],
+    [
+    [Shopee,http://shopee.ph/],
+    [My Purchases,http://shopee.ph/user/purchase],
+    ],
 ]
 ---
