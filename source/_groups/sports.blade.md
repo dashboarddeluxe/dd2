@@ -9,49 +9,58 @@ featured: true
 weight: 5
 links: [
     [
-        [ESPN,http://global.espn.com/?src=com],
-        [NBA,http://espn.com/nba],
-        [Scores,http://espn.com/nba/scoreboard],
-        [Standings,http://espn.com/nba/standings],
-        [Spurs,http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs],
+        [ESPN,"http://global.espn.com/?src=com"],
+        [NBA,"http://espn.com/nba"],
+        [Scores,"http://espn.com/nba/scoreboard"],
+        [Standings,"http://espn.com/nba/standings"],
+        [Spurs,"http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs"],
     ],
     [
-        [HoopsHype Rumors,http://hoopshype.com/rumors],
-        [Spurs,http://hoopshype.com/team/san-antonio-spurs/],
+        [538 Sports,"http://fivethirtyeight.com/sports/"],
+        [NBA,"http://fivethirtyeight.com/tag/nba/"],
     ],
     [
-        [Y! NBA Fantasy,http://sports.yahoo.com/dailyfantasy],
-        [Upcoming,http://sports.yahoo.com/dailyfantasy/contests/upcoming],
-        [Live,http://sports.yahoo.com/dailyfantasy/contests/live],
-        [Create Contest,http://sports.yahoo.com/dailyfantasy/contest/create],
-        [Live Score,http://sports.yahoo.com/dailyfantasy/research/live],
+        [HoopsHype Rumors,"http://hoopshype.com/rumors"],
+        [Spurs,"http://hoopshype.com/team/san-antonio-spurs/"],
     ],
     [
-        [Linestar Y! Fantasy NBA,http://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo],
-        [Live Score,http://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo],
-        [Perfect Lineup,http://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo],
+        [San Antonio Spurs,heading],
+    ]
+    [
+        [Pounding the Rock,"http://www.poundingtherock.com/"],
     ],
     [
-        [DailyFantasyNerd Optimizer,http://dailyfantasynerd.com/optimizer/yahoo/nba],
+        [Air Alamo,"http://airalamo.com/"],
     ],
     [
-        [Lineup Lab NBA Lineup Organizer,http://www.lineuplab.com/nba-lineup-optimizer],
+        [NBA Fantasy,heading],
+    ]
+    [
+        [Y! NBA Fantasy,"http://sports.yahoo.com/dailyfantasy"],
+        [Upcoming,"http://sports.yahoo.com/dailyfantasy/contests/upcoming"],
+        [Live,"http://sports.yahoo.com/dailyfantasy/contests/live"],
+        [Create Contest,"http://sports.yahoo.com/dailyfantasy/contest/create"],
+        [Live Score,"http://sports.yahoo.com/dailyfantasy/research/live"],
     ],
     [
-        [Pounding the Rock,http://www.poundingtherock.com/],
+        [Linestar Y! Fantasy NBA,"http://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo"],
+        [Live Score,"http://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo"],
+        [Perfect Lineup,"http://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo"],
     ],
     [
-        [Air Alamo,http://airalamo.com/],
+        [DailyFantasyNerd Optimizer,"http://dailyfantasynerd.com/optimizer/yahoo/nba"],
     ],
     [
-        [538 Sports,http://fivethirtyeight.com/sports/],
-        [NBA,http://fivethirtyeight.com/tag/nba/],
+        [Lineup Lab NBA Lineup Organizer,"http://www.lineuplab.com/nba-lineup-optimizer"],
     ],
     [
-        [ABC Sport,http://abc.net.au/news/sport/],
+        [Australian Sports,heading],
     ],
     [
-        [Cricinfo,http://espncricinfo.com/?edition-view=espncricinfo-en-au&amp;set=true],
+        [ABC Sport,"http://abc.net.au/news/sport/"],
+    ],
+    [
+        [Cricinfo,"http://espncricinfo.com/?edition-view=espncricinfo-en-au&amp;set=true"],
     ],
 ]
 ---

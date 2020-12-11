@@ -9,22 +9,22 @@ featured: true
 weight: 45
 links: [
 [
-    [Font Identifier,http://fontsquirrel.com/matcherator],
+    [Font Identifier,"http://fontsquirrel.com/matcherator"],
 ],
 [
-    [Fontsquirrel,http://fontsquirrel.com],
+    [Fontsquirrel,"http://fontsquirrel.com"],
 ],
 [
-    [Dafont,http://dafont.com],
+    [Dafont,"http://dafont.com"],
 ],
 [
-    [Fontspace,http://fontspace.com],
+    [Fontspace,"http://fontspace.com"],
 ],
 [
-    [1001 Fonts,http://1001fonts.com],
+    [1001 Fonts,"http://1001fonts.com"],
 ],
 [
-    [Weekly Fonts,http://www.weeklyfonts.com/],
+    [Weekly Fonts,"http://www.weeklyfonts.com/"],
 ],
 ]
 ---
