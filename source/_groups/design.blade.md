@@ -101,5 +101,26 @@ links: [
 [
   [Designspiration,"http://www.designspiration.net/"],
 ],
+[
+  [Fonts,heading],
+],
+[
+    [Font Identifier,"http://fontsquirrel.com/matcherator"],
+],
+[
+    [Fontsquirrel,"http://fontsquirrel.com"],
+],
+[
+    [Dafont,"http://dafont.com"],
+],
+[
+    [Fontspace,"http://fontspace.com"],
+],
+[
+    [1001 Fonts,"http://1001fonts.com"],
+],
+[
+    [Weekly Fonts,"http://www.weeklyfonts.com/"],
+],
 ]
 ---
