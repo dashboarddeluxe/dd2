@@ -42,7 +42,7 @@
                             @foreach ($links as $link)
                             @if ($loop->first)
                                 @if ($link[1] === "heading")
-                                    class="xl:col-span-2" >
+                                    class="xl:col-span-2 border-b-2 border-gray-400 my-2" >
                                     <div class="font-bold">{{$link[0]}}</div>
                                 @else
                                     >
