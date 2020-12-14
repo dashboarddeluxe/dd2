@@ -104,12 +104,15 @@ links: [
     [CSS Frameworks,heading],
 ]
 [
-    [TailwindCSS,http://tailwindcss.com/],
-    [Docs,http://tailwindcss.com/docs],
-    [v1 Docs,http://v1.tailwindcss.com/docs/],
-    [Play,http://play.tailwindcss.com/],
-    [Releases,http://github.com/tailwindlabs/tailwindcss/releases],
+    [TailwindCSS,"http://tailwindcss.com/"],
+    [Docs,"http://tailwindcss.com/docs"],
+    [v1 Docs,"http://v1.tailwindcss.com/docs/"],
+    [Play,"http://play.tailwindcss.com/"],
+    [Releases,"http://github.com/tailwindlabs/tailwindcss/releases"],
 ],
+[
+    [Awesome TailwindCSS,"http://awesomeopensource.com/project/aniftyco/awesome-tailwindcss"],
+]
 [
     [Bootstrap,http://getbootstrap.com/],
     [Docs,http://getbootstrap.com/docs/5.0/getting-started/introduction/],

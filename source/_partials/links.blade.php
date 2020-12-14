@@ -11,7 +11,7 @@
                 </h2>
             </div>
             @endif
-            <div class="px-4 py-4 bg-blue-100">
+            <div class="px-4 pb-4 pt-2 bg-blue-100">
                 <p class="text-gray-700 text-base">
                     @if ($group->links)
                     <div class="grid grid-cols-1 xl:grid-cols-2">

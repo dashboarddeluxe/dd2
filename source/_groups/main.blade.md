@@ -1,7 +1,7 @@
 ---
 extends: _layouts.group
 section: content
-title:
+title: Main
 date: 2017-03-23
 description: This is your first blog post.
 cover_image: /img/post-cover-image-2.png

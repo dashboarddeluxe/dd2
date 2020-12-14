@@ -33,11 +33,11 @@
         <header class="flex items-center shadow bg-black py-2 z-50 h-16" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-6 md:px-16">
                 <div class="flex items-center">
-                    <a href="#main" title="{{ $page->siteName }} home" class="inline-flex items-center">
+                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         {{--
                         <img class="h-8 md:h-10 mr-2" src="/img/logo.png" alt="{{ $page->siteName }} logo" />
                         --}}
-                        <h1 class="text-lg md:text-2xl text-blue-200 font-semibold hover:text-white my-0">{{ $page->siteName }}</h1>
+                        <h1 class="text-lg md:text-2xl font-semibold text-white my-0">{{ $page->siteName }}</h1>
                     </a>
                 </div>
 
