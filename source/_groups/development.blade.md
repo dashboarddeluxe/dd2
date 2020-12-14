@@ -10,14 +10,7 @@ featured: true
 weight: 20
 links: [
 [
-    [Visual Studio Code,"http://code.visualstudio.com/download"],
-],
-[
     [Brave Browser Portable,"http://github.com/portapps/brave-portable/releases"],
-],
-[
-    [Sublime Text,"http://www.sublimetext.com/3"],
-    [Popular Packages,"http://packagecontrol.io/browse/popular"],
 ],
 [
     [Namesilo,"http://www.namesilo.com"],
@@ -26,19 +19,53 @@ links: [
     [Whois Domain Lookup,"http://www.whois.com/whois/"],
 ],
 [
-    [Laragon,"http://www.laragon.org/"],
-    [Releases,"http://github.com/leokhoa/laragon/releases"],
+    [CodeIgniter,"http://www.codeigniter.com/"],
+],
+[
+    [Wordpress Planet,"http://planet.wordpress.org"],
+],
+[
+    [Programming Notes for Professionals,"http://goalkicker.com/"],
+],
+[
+    [Backdrop CMS,"http://backdropcms.org"],
+    [Roadmap,"http://backdropcms.org/roadmap"],
+],
+[
+    [Grav,"http://getgrav.org/"],
+    [Releases,"http://github.com/getgrav/grav/releases"],
+],
+[
+    [PHP Download,"http://php-download.com/"],
+],
+[
+    [Free Code Camp,"http://learn.freecodecamp.org/"],
+],
+[
+    [Scrimba,"http://scrimba.com/"],
+],
+[
+    [Servers,heading],
 ],
 [
     [XAMPP,"http://www.apachefriends.org/download.html"],
 ],
 [
-    [CodeIgniter,"http://www.codeigniter.com/"],
+    [Laragon,"http://www.laragon.org/"],
+    [Releases,"http://github.com/leokhoa/laragon/releases"],
 ],
 [
-    [Jigsaw,"http://jigsaw.tighten.co/"],
-    [Docs,"http://jigsaw.tighten.co/docs/installation/"],
-    [Releases,"http://github.com/tighten/jigsaw/releases"],
+    [Integrated Development Environments,heading],
+],
+[
+    [Visual Studio Code,"http://code.visualstudio.com/download"],
+],
+[
+    [Sublime Text,"http://www.sublimetext.com/3"],
+    [Popular Packages,"http://packagecontrol.io/browse/popular"],
+],
+[
+    [Drupal, heading],
 ],
 [
     [Drupal,"http://drupal.org/"],
@@ -60,32 +87,34 @@ links: [
     ["Drupal Modules: The 1%","http://gogrow.org/tutorials"],
 ],
 [
-    [Wordpress Planet,"http://planet.wordpress.org"],
-],
+    [Static Site Generators,heading],
+]
 [
-    [Programming Notes for Professionals,"http://goalkicker.com/"],
+    [Jigsaw,"http://jigsaw.tighten.co/"],
+    [Docs,"http://jigsaw.tighten.co/docs/installation/"],
+    [Releases,"http://github.com/tighten/jigsaw/releases"],
 ],
 [
     [Hugo,"http://gohugo.io/"],
     [Releases,"http://github.com/gohugoio/hugo/releases"],
+    [TailwindCSS Themes,"http://themes.gohugo.io/tags/tailwindcss/"],
     [Bootstrap Themes,"http://themes.gohugo.io/tags/bootstrap/"],
 ],
 [
-    [Backdrop CMS,"http://backdropcms.org"],
-    [Roadmap,"http://backdropcms.org/roadmap"],
+    [CSS Frameworks,heading],
+]
+[
+    [TailwindCSS,http://tailwindcss.com/],
+    [Docs,http://tailwindcss.com/docs],
+    [v1 Docs,http://v1.tailwindcss.com/docs/],
+    [Play,http://play.tailwindcss.com/],
+    [Releases,http://github.com/tailwindlabs/tailwindcss/releases],
 ],
 [
-    [Grav,"http://getgrav.org/"],
-    [Releases,"http://github.com/getgrav/grav/releases"],
-],
-[
-    [PHP Download,"http://php-download.com/"],
-],
-[
-    [Free Code Camp,"http://learn.freecodecamp.org/"],
-],
-[
-    [Scrimba,"http://scrimba.com/"],
+    [Bootstrap,http://getbootstrap.com/],
+    [Docs,http://getbootstrap.com/docs/5.0/getting-started/introduction/],
+    [Blog,http://blog.getbootstrap.com/],
+    [Releases,http://github.com/twbs/bootstrap/releases],
 ],
 [
     [Pantheon,heading],
