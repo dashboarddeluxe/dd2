@@ -9,16 +9,29 @@ featured: true
 weight: 10
 links: [
     [
-        [BoardGameGeek,"http://boardgamegeek.com"],
-        [Subscriptions,"http://boardgamegeek.com/subscriptions"],
+        [BoardGameGeek,heading]
     ],
     [
-        [BGG Search,"http://boardgamegeek.com/advsearch/boardgame"],
-        [Light,"http://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=&amp;range%5Bmaxplayers%5D%5Bmin%5D=&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=60&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;nosubtypes%5B0%5D=boardgameexpansion&amp;playerrangetype=normal&amp;B1=Submit%5D"],
-        [30 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=30&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
-        [15 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=15&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
-        [Versatile,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=2&range%5Bmaxplayers%5D%5Bmin%5D=3&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=60&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [BoardGameGeek,"http://boardgamegeek.com"],
+        [Subscriptions,"http://boardgamegeek.com/subscriptions"],
+        [Search,"http://boardgamegeek.com/advsearch/boardgame"],
     ],
+    [
+        [Very Light,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=1.49&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [Light,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=1.5&floatrange%5Bavgweight%5D%5Bmax%5D=1.99&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [Medium Light,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=2&floatrange%5Bavgweight%5D%5Bmax%5D=2.49&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [Medium,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=2.5&floatrange%5Bavgweight%5D%5Bmax%5D=3.49&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [Heavy,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=3.5&floatrange%5Bavgweight%5D%5Bmax%5D=4.24&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [Very Heavy,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=4.25&floatrange%5Bavgweight%5D%5Bmax%5D=5&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+    ],
+    [
+        [15 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=15&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [30 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=30&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [Versatile,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=2&range%5Bmaxplayers%5D%5Bmin%5D=3&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+    ],
+    [
+        [Reviews,heading],
+    ]
     [
         [Dice Tower,"http://dicetower.com"],
         [Week in Review,"http://www.youtube.com/results?search_query=dice+tower+week+in+review&amp;sp=CAISBAgEEAE%253D"],
