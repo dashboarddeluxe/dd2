@@ -25,10 +25,40 @@ links: [
         [Very Heavy,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=4.25&floatrange%5Bavgweight%5D%5Bmax%5D=5&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
     ],
     [
-        [15 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=15&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
-        [30 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=30&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
-        [Versatile,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=&range%5Bminplayers%5D%5Bmax%5D=2&range%5Bmaxplayers%5D%5Bmin%5D=3&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&colfiltertype=&searchuser=&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [20 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bplaytime%5D%5Bmax%5D=20&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2.5&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [40 Minutes,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bleastplaytime%5D%5Bmin%5D=21&range%5Bplaytime%5D%5Bmax%5D=40&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2.5&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [1 Hour,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bleastplaytime%5D%5Bmin%5D=30&range%5Bplaytime%5D%5Bmax%5D=60&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2.5&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
     ],
+    [
+        [Versatile,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=2&range%5Bmaxplayers%5D%5Bmin%5D=4&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=exclusive&B1=Submit"],
+        [1P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=1&range%5Bmaxplayers%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [2P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=2&range%5Bmaxplayers%5D%5Bmin%5D=2&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=exclusive&B1=Submit"],
+        [3P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=3&range%5Bmaxplayers%5D%5Bmin%5D=3&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [4P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=4&range%5Bmaxplayers%5D%5Bmin%5D=4&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [5P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=5&range%5Bmaxplayers%5D%5Bmin%5D=5&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [6P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=6&range%5Bmaxplayers%5D%5Bmin%5D=6&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [7P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=7&range%5Bmaxplayers%5D%5Bmin%5D=7&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [8P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=8&range%5Bmaxplayers%5D%5Bmin%5D=8&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [9P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=9&range%5Bmaxplayers%5D%5Bmin%5D=9&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [10P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=10&range%5Bmaxplayers%5D%5Bmin%5D=10&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [11P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=11&range%5Bmaxplayers%5D%5Bmin%5D=11&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [12P,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=12&range%5Bmaxplayers%5D%5Bmin%5D=12&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+    ],
+    [
+        [Games Before 1900,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=-999999999&range%5Byearpublished%5D%5Bmax%5D=1899&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [1900-1989,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=1900&range%5Byearpublished%5D%5Bmax%5D=1989&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [1990s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=1990&range%5Byearpublished%5D%5Bmax%5D=1999&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [2000s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=2000&range%5Byearpublished%5D%5Bmax%5D=2009&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [2010s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=2010&range%5Byearpublished%5D%5Bmax%5D=2019&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [2020s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=2020&range%5Byearpublished%5D%5Bmax%5D=2029&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+    ]
+    [
+        [Fillers before 1990,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=-999999999&range%5Byearpublished%5D%5Bmax%5D=1989&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [1990s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=1990&range%5Byearpublished%5D%5Bmax%5D=1999&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [2000s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=2000&range%5Byearpublished%5D%5Bmax%5D=2009&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [2010s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=2010&range%5Byearpublished%5D%5Bmax%5D=2019&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+        [2020s,"http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Byearpublished%5D%5Bmin%5D=2020&range%5Byearpublished%5D%5Bmax%5D=2029&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&B1=Submit"],
+    ]
     [
         [Reviews,heading],
     ]
@@ -78,6 +108,9 @@ links: [
     [
         [Geekbox PH,"http://geekboxph.com/collections/shop-all?sort_by=created-descending"],
     ],
+    [
+        [Board Game Express,"http://shopee.ph/shop/120710033/search?page=0&sortBy=ctime"],
+    ]
 ]
 ---
 
