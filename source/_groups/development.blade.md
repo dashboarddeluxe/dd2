@@ -7,11 +7,8 @@ date: 2017-03-23
 description: This is your first blog post.
 cover_image: /img/post-cover-image-2.png
 featured: true
-weight: 20
+weight: 15
 links: [
-[
-    [Brave Browser Portable,"http://github.com/portapps/brave-portable/releases"],
-],
 [
     [Namesilo,"http://www.namesilo.com"],
 ],
@@ -19,13 +16,22 @@ links: [
     [Whois Domain Lookup,"http://www.whois.com/whois/"],
 ],
 [
+    [PHP,heading],
+]
+[
+    [Laravel,"http://laravel.com"],
+    [6 Docs,"https://laravel.com/docs/6.x"],
+]
+[
+    [Voyager,"http://voyager.devdojo.com/"],
+    [Docs,"http://voyager-docs.devdojo.com/"],
+]
+[
     [CodeIgniter,"http://www.codeigniter.com/"],
 ],
 [
-    [Wordpress Planet,"http://planet.wordpress.org"],
-],
-[
-    [Programming Notes for Professionals,"http://goalkicker.com/"],
+    [Wordpress,"http://wordpress.org"],
+    [Planet,"http://planet.wordpress.org"],
 ],
 [
     [Backdrop CMS,"http://backdropcms.org"],
@@ -39,10 +45,25 @@ links: [
     [PHP Download,"http://php-download.com/"],
 ],
 [
+    [Reference and Training,heading],
+]
+[
+    [Programming Notes for Professionals,"http://goalkicker.com/"],
+],
+[
     [Free Code Camp,"http://learn.freecodecamp.org/"],
 ],
 [
     [Scrimba,"http://scrimba.com/"],
+],
+[
+    [Browsers,heading],
+]
+[
+    [Brave Browser Portable,"http://github.com/portapps/brave-portable/releases"],
+],
+[
+    [Firefox Portable,"http://portableapps.com/apps/internet/firefox_portable"],
 ],
 [
     [Servers,heading],
@@ -70,7 +91,7 @@ links: [
 [
     [Drupal,"http://drupal.org/"],
     [Planet,"http://drupal.org/planet"],
-    [Initiatives,"http://www.drupal.org/about/strategic-initiatives"],
+    [Initiatives,"http://www.drupal.org/about/core/strategic-initiatives"],
     [Usage,"http://www.drupal.org/project/usage/"],
 ],
 [
@@ -78,6 +99,7 @@ links: [
     [Modules,"http://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=sm_core_compatibility%3A9&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
     [Themes,"http://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
     [Distributions,"http://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    [D8 Distributions,"https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
 ],
 [
     [Droopler,"http://github.com/droptica/droopler_project/releases"],

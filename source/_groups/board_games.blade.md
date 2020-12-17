@@ -89,6 +89,7 @@ links: [
     ],
     [
         [Tabletop Simulator Workshop,"http://steamcommunity.com/app/286160/workshop/"],
+        [Most Recent,"http://steamcommunity.com/workshop/browse/?appid=286160&browsesort=mostrecent&section=readytouseitems"],
     ],
     [
         [Steam Workshop Download,"http://steamworkshop.download"],
