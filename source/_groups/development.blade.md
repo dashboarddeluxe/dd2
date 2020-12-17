@@ -13,7 +13,7 @@ links: [
     [Namesilo,"http://www.namesilo.com"],
 ],
 [
-    [Whois Domain Lookup,"http://www.whois.com/whois/"],
+    [Whois Lookup,"http://whois.domaintools.com/"],
 ],
 [
     [PHP,heading],
