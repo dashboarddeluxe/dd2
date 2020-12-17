@@ -20,17 +20,20 @@ links: [
 ]
 [
     [Laravel,"http://laravel.com"],
-    [6 Docs,"https://laravel.com/docs/6.x"],
+    [6 Docs,"http://laravel.com/docs/6.x"],
 ]
 [
     [Voyager,"http://voyager.devdojo.com/"],
+    [Releases,"http://github.com/the-control-group/voyager/releases"],
     [Docs,"http://voyager-docs.devdojo.com/"],
 ]
 [
     [CodeIgniter,"http://www.codeigniter.com/"],
+    [Docs,"http://www.codeigniter.com/user_guide/index.html#"],
 ],
 [
     [Wordpress,"http://wordpress.org"],
+    [Releases,"http://github.com/WordPress/WordPress/releases"]
     [Planet,"http://planet.wordpress.org"],
 ],
 [
@@ -95,16 +98,22 @@ links: [
     [Usage,"http://www.drupal.org/project/usage/"],
 ],
 [
+    [Droopler,"http://github.com/droptica/droopler_project/releases"],
+    [Releases,"http://www.drupal.org/project/droopler/releases"],
+],
+[
     [Drupal 9,"http://www.drupal.org/about/9"],
     [Modules,"http://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=sm_core_compatibility%3A9&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
     [Themes,"http://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
     [Distributions,"http://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
-    [D8 Distributions,"https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
 ],
 [
-    [Droopler,"http://github.com/droptica/droopler_project/releases"],
-    [Releases,"http://www.drupal.org/project/droopler/releases"],
-],
+    [Drupal 8,"http://www.drupal.org/8"],
+    [Modules,"http://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=sm_core_compatibility%3A8&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    [Themes,"http://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    [Distributions,"http://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+
+]
 [
     ["Drupal Modules: The 1%","http://gogrow.org/tutorials"],
 ],

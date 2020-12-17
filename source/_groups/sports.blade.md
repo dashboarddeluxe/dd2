@@ -16,6 +16,15 @@ links: [
         [Spurs,"http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs"],
     ],
     [
+        [Yahoo! Sports,"http://sports.yahoo.com/"],
+        [NBA,"http://sports.yahoo.com/nba"],
+    ]
+    [
+        [Bleacher Report,"http://www.bleacherreport.com/"],
+        [NBA,"http://www.bleacherreport.com/nba"],
+
+    ],
+    [
         [538 Sports,"http://fivethirtyeight.com/sports/"],
         [NBA,"http://fivethirtyeight.com/tag/nba/"],
     ],
