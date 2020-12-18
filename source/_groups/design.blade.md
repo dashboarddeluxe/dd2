@@ -9,9 +9,6 @@ featured: true
 weight: 20
 links: [
 [
-  [FaceRepo Watchmaker,"http://facerepo.com/app/search/results?sortOrder=downloaded-most&amp;faceApp=watchmaker&amp;page=1"],
-],
-[
   ["Images","<heading>"],
 ],
 [
