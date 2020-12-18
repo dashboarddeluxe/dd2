@@ -22,11 +22,15 @@ links: [
     ["Header Security Scan","https://securityheaders.com/?q=https%3A%2F%2Fdd2.netlify.app%2F"],
 ]
 [
+    ["FB Sharing Debugger","http://developers.facebook.com/tools/debug/"],
+]
+[
     [PHP,"<heading>"],
 ]
 [
     [Laravel,"http://laravel.com"],
     [6 Docs,"http://laravel.com/docs/6.x"],
+    ["Top Packages","http://laravel.bepsvpt.me/"],
 ]
 [
     [Voyager,"http://voyager.devdojo.com/"],

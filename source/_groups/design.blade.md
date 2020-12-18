@@ -12,43 +12,7 @@ links: [
   [FaceRepo Watchmaker,"http://facerepo.com/app/search/results?sortOrder=downloaded-most&amp;faceApp=watchmaker&amp;page=1"],
 ],
 [
-  [Trianglify.io,"http://trianglify.io/"],
-],
-[
-  [Trianglify Background Generator,"http://alssndro.github.io/trianglify-background-generator/"],
-],
-[
-  [Geopattern,"http://btmills.github.io/geopattern/geopattern.html"],
-],
-[
-  [Patterncooler,"http://patterncooler.com/"],
-],
-[
-  [Striped Backgrounds,"http://stripedbgs.com/"],
-],
-[
-  [Material Design Background Generator,"http://stringsistemas.com/materialgenerator.html"],
-],
-[
-  [Flaticon Patterns,"http://pattern.flaticon.com/"],
-],
-[
-  [TinEye Color Extraction,"http://labs.tineye.com/color/"],
-],
-[
-  [PHP Color Extract,"http://www.coolphptools.com/color_extract"],
-],
-[
-  [The Pattern Library,"http://thepatternlibrary.com/"],
-],
-[
-  [Subtle Patterns,"http://www.toptal.com/designers/subtlepatterns/"],
-],
-[
-  [Transparent Textures,"http://www.transparenttextures.com/"],
-],
-[
-  [Generate Random Bitmap PNG,"http://onlinepngtools.com/generate-random-png"],
+  ["Images","<heading>"],
 ],
 [
   [Pixabay,"http://pixabay.com/"],
@@ -99,7 +63,40 @@ links: [
   [SuperFamous Images,"http://images.superfamous.com/"],
 ],
 [
-  [Designspiration,"http://www.designspiration.net/"],
+  ["Patterns","<heading>"],
+],
+[
+  [Trianglify.io,"http://trianglify.io/"],
+],
+[
+  [Trianglify Background Generator,"http://alssndro.github.io/trianglify-background-generator/"],
+],
+[
+  [Geopattern,"http://btmills.github.io/geopattern/geopattern.html"],
+],
+[
+  [Patterncooler,"http://patterncooler.com/"],
+],
+[
+  [Striped Backgrounds,"http://stripedbgs.com/"],
+],
+[
+  [Material Design Background Generator,"http://stringsistemas.com/materialgenerator.html"],
+],
+[
+  [Flaticon Patterns,"http://pattern.flaticon.com/"],
+],
+[
+  [The Pattern Library,"http://thepatternlibrary.com/"],
+],
+[
+  [Subtle Patterns,"http://www.toptal.com/designers/subtlepatterns/"],
+],
+[
+  [Transparent Textures,"http://www.transparenttextures.com/"],
+],
+[
+  [Generate Random Bitmap PNG,"http://onlinepngtools.com/generate-random-png"],
 ],
 [
   [Fonts,"<heading>"],
@@ -121,6 +118,30 @@ links: [
 ],
 [
     [Weekly Fonts,"http://www.weeklyfonts.com/"],
+],
+[
+    ["Color Extraction","<heading>"],
+]
+[
+  [TinEye Color Extraction,"http://labs.tineye.com/color/"],
+],
+[
+  [PHP Color Extract,"http://www.coolphptools.com/color_extract"],
+],
+[
+  ["Inspiration","<heading>"],
+]
+[
+  ["Land Book","http://land-book.com/"],
+],
+[
+  ["Dribble","http://dribbble.com/"],
+],
+[
+  ["Site Inspire","http://www.siteinspire.com/"],
+]
+[
+  [Designspiration,"http://www.designspiration.net/"],
 ],
 ]
 ---
