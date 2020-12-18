@@ -9,6 +9,5 @@ environment = { PHP_VERSION = "7.4" }
   [headers.values]
     cache-control = '''
     max-age=300,
-    no-cache,
-    no-store,
+    public,
     must-revalidate'''
