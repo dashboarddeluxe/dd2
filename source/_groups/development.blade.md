@@ -20,10 +20,10 @@ links: [
 ],
 [
     ["Header Security Scan","https://securityheaders.com/?q=https%3A%2F%2Fdd2.netlify.app%2F"],
-]
+],
 [
     ["FB Sharing Debugger","http://developers.facebook.com/tools/debug/"],
-]
+],
 [
     [PHP,"<heading>"],
 ]
@@ -140,6 +140,20 @@ links: [
     [Releases,"http://github.com/gohugoio/hugo/releases"],
     [TailwindCSS Themes,"http://themes.gohugo.io/tags/tailwindcss/"],
     [Bootstrap Themes,"http://themes.gohugo.io/tags/bootstrap/"],
+],
+[
+    ["Netlify","http://app.netlify.com"],
+    ["Dashboard Deluxe 2","http://dd2.netlify.app"],
+    ["Dashboard Deluxe","http://dashboarddeluxe.netlify.app"],
+],
+[
+    ["Github","http://github.com"],
+    ["Dashboard Deluxe","http://github.com/dashboarddeluxe/"],
+    ["Dashboard Deluxe Site","http://github.com/dashboarddeluxe/dashboarddeluxe.github.io"],
+],
+[
+    ["Prose","http://prose.io"],
+    ["Edit Dashboard Deluxe","http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md"],
 ],
 [
     [CSS Frameworks,"<heading>"],

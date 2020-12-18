@@ -38,25 +38,12 @@ links: [
     ],
     [
         ["Twitter","http://twitter.com/home"],
+        ["Trends","http://twitter.com/i/trends"],
     ],
     [
         ["YouTube","http://youtube.com/"],
         ["Subscriptions","http://youtube.com/feed/subscriptions"],
         ["History","http://www.youtube.com/feed/history"],
-    ],
-    [
-        ["Github","http://github.com"],
-        ["Dashboard Deluxe","http://github.com/dashboarddeluxe/"],
-        ["Dashboard Deluxe Site","http://github.com/dashboarddeluxe/dashboarddeluxe.github.io"],
-    ],
-    [
-        ["Prose","http://prose.io"],
-        ["Edit Dashboard Deluxe","http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md"],
-    ],
-    [
-        ["Netlify","http://app.netlify.com"],
-        ["Dashboard Deluxe 2","http://dd2.netlify.app"],
-        ["Dashboard Deluxe","http://dashboarddeluxe.netlify.app"],
     ],
     [
         ["Glary Utilies","http://download.glarysoft.com/guportable.zip"],
