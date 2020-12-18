@@ -10,7 +10,9 @@ environment = { PHP_VERSION = "7.4" }
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = "script-src 'self' 'unsafe-inline' 'unsafe-eval';"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "same-origin"
     cache-control = '''
-    max-age=300,
+    max-age=3600,
     public,
     must-revalidate'''
