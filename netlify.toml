@@ -3,12 +3,3 @@
 command = "npm run production"
 publish = "build_production"
 environment = { PHP_VERSION = "7.4" }
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Security-Policy = "default-src 'self';"
-    cache-control = '''
-    max-age=300,
-    public,
-    must-revalidate'''
