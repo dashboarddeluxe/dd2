@@ -12,6 +12,7 @@ environment = { PHP_VERSION = "7.4" }
     Content-Security-Policy = "script-src 'self' 'unsafe-inline' 'unsafe-eval';"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "same-origin"
+    Permissions-Policy = "geolocation=(self \"https://dd2.netlify.app\"), microphone=()"
     cache-control = '''
     max-age=3600,
     public,
