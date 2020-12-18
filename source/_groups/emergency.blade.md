@@ -9,7 +9,7 @@ featured: true
 weight: 30
 links: [
 [
-    [Weather,heading],
+    [Weather,"<heading>"],
 ]
 [
     [Dark Sky,"http://darksky.net/forecast/14.5833,121.0833/ca12/en"],
@@ -21,7 +21,7 @@ links: [
     [Weather.com,"http://weather.com/en-PH/weather/hourbyhour/l/c3784b13635e8dc4653bad5703d3c7590317cc43475d6bbbd94809d9e30ec8fe"],
 ],
 [
-    [Calamities,heading],
+    [Calamities,"<heading>"],
 ]
 [
     [PHIVOLCS,"https://www.phivolcs.dost.gov.ph/index.php/earthquake/earthquake-information3"],
@@ -47,7 +47,7 @@ links: [
     [DAM Information,"http://bagong.pagasa.dost.gov.ph/flood#dam-information"],
 ],
 [
-    [COVID-19,heading],
+    [COVID-19,"<heading>"],
 ]
 [
     [COVID-19 Cases,"http://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"],

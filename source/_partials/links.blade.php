@@ -19,12 +19,16 @@
                         <div
                             @foreach ($links as $link)
                             @if ($loop->first)
-                                @if ($link[1] === "heading")
+                                @if ($link[1] === "<heading>")
                                     class="xl:col-span-2 border-b-2 border-gray-400 pt-2" >
                                     <div class="font-bold">{{$link[0]}}</div>
                                 @else
                                     >
-                                    <a href="{!!$link[1]!!}" target="_blank" rel="noopener noreferrer">{{$link[0]}}</a>
+                                    @if ($link[1] === "<subheading>")
+                                        <span class="font-bold">{{$link[0]}}</span>
+                                    @else
+                                        <a href="{!!$link[1]!!}" target="_blank" rel="noopener noreferrer">{{$link[0]}}</a>
+                                    @endif
                                 @endif
                             @else
                             <div class="sm:inline-block"><span class="inline sm:hidden">-&nbsp;</span><span class="hidden sm:inline">|&nbsp;</span><a href="{{$link[1]}}" target="_blank"

@@ -33,7 +33,7 @@ links: [
         [Spurs,"http://hoopshype.com/team/san-antonio-spurs/"],
     ],
     [
-        [San Antonio Spurs,heading],
+        [San Antonio Spurs,"<heading>"],
     ]
     [
         [Pounding the Rock,"http://www.poundingtherock.com/"],
@@ -42,7 +42,7 @@ links: [
         [Air Alamo,"http://airalamo.com/"],
     ],
     [
-        [NBA Fantasy,heading],
+        [NBA Fantasy,"<heading>"],
     ]
     [
         [Y! NBA Fantasy,"http://sports.yahoo.com/dailyfantasy"],
@@ -63,7 +63,7 @@ links: [
         [Lineup Lab NBA Lineup Organizer,"http://www.lineuplab.com/nba-lineup-optimizer"],
     ],
     [
-        [Australian Sports,heading],
+        [Australian Sports,"<heading>"],
     ],
     [
         [ABC Sport,"http://abc.net.au/news/sport/"],

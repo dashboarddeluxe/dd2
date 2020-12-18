@@ -16,7 +16,7 @@ links: [
     [Whois Lookup,"http://whois.domaintools.com/"],
 ],
 [
-    [PHP,heading],
+    [PHP,"<heading>"],
 ]
 [
     [Laravel,"http://laravel.com"],
@@ -48,7 +48,7 @@ links: [
     [PHP Download,"http://php-download.com/"],
 ],
 [
-    [Reference and Training,heading],
+    [Reference and Training,"<heading>"],
 ]
 [
     [Programming Notes for Professionals,"http://goalkicker.com/"],
@@ -60,7 +60,7 @@ links: [
     [Scrimba,"http://scrimba.com/"],
 ],
 [
-    [Browsers,heading],
+    [Browsers,"<heading>"],
 ]
 [
     [Brave Browser Portable,"http://github.com/portapps/brave-portable/releases"],
@@ -69,7 +69,7 @@ links: [
     [Firefox Portable,"http://portableapps.com/apps/internet/firefox_portable"],
 ],
 [
-    [Servers,heading],
+    [Servers,"<heading>"],
 ],
 [
     [XAMPP,"http://www.apachefriends.org/download.html"],
@@ -79,7 +79,7 @@ links: [
     [Releases,"http://github.com/leokhoa/laragon/releases"],
 ],
 [
-    [Integrated Development Environments,heading],
+    [Integrated Development Environments,"<heading>"],
 ],
 [
     [Visual Studio Code,"http://code.visualstudio.com/download"],
@@ -89,7 +89,7 @@ links: [
     [Popular Packages,"http://packagecontrol.io/browse/popular"],
 ],
 [
-    [Drupal, heading],
+    [Drupal, "<heading>"],
 ],
 [
     [Drupal,"http://drupal.org/"],
@@ -118,7 +118,7 @@ links: [
     ["Drupal Modules: The 1%","http://gogrow.org/tutorials"],
 ],
 [
-    [Static Site Generators,heading],
+    [Static Site Generators,"<heading>"],
 ]
 [
     [Jigsaw,"http://jigsaw.tighten.co/"],
@@ -132,7 +132,7 @@ links: [
     [Bootstrap Themes,"http://themes.gohugo.io/tags/bootstrap/"],
 ],
 [
-    [CSS Frameworks,heading],
+    [CSS Frameworks,"<heading>"],
 ]
 [
     [TailwindCSS,"http://tailwindcss.com/"],
@@ -151,7 +151,7 @@ links: [
     [Releases,http://github.com/twbs/bootstrap/releases],
 ],
 [
-    [Pantheon,heading],
+    [Pantheon,"<heading>"],
 ]
 [
     [Dashboard,"http://dashboard.pantheon.io"],

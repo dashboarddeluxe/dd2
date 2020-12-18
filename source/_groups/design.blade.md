@@ -102,7 +102,7 @@ links: [
   [Designspiration,"http://www.designspiration.net/"],
 ],
 [
-  [Fonts,heading],
+  [Fonts,"<heading>"],
 ],
 [
     [Font Identifier,"http://fontsquirrel.com/matcherator"],
