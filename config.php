@@ -6,7 +6,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'Dashboard Deluxe 2',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
+    'siteDescription' => 'Jigsaw-powered links collection.',
     'siteAuthor' => 'Dashboard Deluxe 2',
 
     // collections

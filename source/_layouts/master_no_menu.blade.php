@@ -19,7 +19,9 @@
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="{{ $page->siteName }} Atom Feed">
         --}}
         @if ($page->production)
+        {{--
             <!-- Insert analytics code here -->
+        --}}
         @endif
         {{--
         <link rel="preconnect" href="https://fonts.gstatic.com">

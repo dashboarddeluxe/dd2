@@ -19,7 +19,9 @@
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="{{ $page->siteName }} Atom Feed">
         --}}
         @if ($page->production)
+        {{--
             <!-- Insert analytics code here -->
+        --}}
         @endif
         {{--
         <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -43,10 +45,11 @@
                 </div>
 
                 <div id="vue-search" class="flex flex-1 justify-end items-center">
+                    {{--
                     <!--
                     <search></search>
                     -->
-
+                    --}}
                     @include('_nav.menu')
 
                     @include('_nav.menu-toggle')
