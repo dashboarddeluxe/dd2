@@ -40,7 +40,7 @@
                         {{--
                         <img class="h-8 md:h-10 mr-2" src="/img/logo.png" alt="{{ $page->siteName }} logo" />
                         --}}
-                        <h1 class="text-lg md:text-2xl font-semibold text-white my-0">{{ $page->siteName }}</h1>
+                        <h1 class="text-lg md:text-2xl font-bold text-white my-0">{{ $page->siteName }}</h1>
                     </a>
                 </div>
             </div>

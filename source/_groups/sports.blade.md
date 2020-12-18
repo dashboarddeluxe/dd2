@@ -42,6 +42,9 @@ links: [
         [Air Alamo,"http://airalamo.com/"],
     ],
     [
+        ["Spurs Nation","http://www.expressnews.com/sports/spurs/allspursnation/"],
+    ],
+    [
         [NBA Fantasy,"<heading>"],
     ]
     [
