@@ -16,6 +16,12 @@ links: [
     [Whois Lookup,"http://whois.domaintools.com/"],
 ],
 [
+    ["HTTP Headers Analyzer","http://dri.es/headers?url=https://dd2.netlify.app"],
+],
+[
+    ["Header Security Scan","https://securityheaders.com/?q=https%3A%2F%2Fdd2.netlify.app%2F"],
+]
+[
     [PHP,"<heading>"],
 ]
 [
