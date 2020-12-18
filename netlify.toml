@@ -3,3 +3,17 @@
 command = "npm run production"
 publish = "build_production"
 environment = { PHP_VERSION = "7.4" }
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self';"
+    Referrer-Policy = "no-referrer"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "no-referrer"
+    X-Content-Type-Options = "nosniff"
+    cache-control = '''
+    max-age=300,
+    public,
+    must-revalidate'''
