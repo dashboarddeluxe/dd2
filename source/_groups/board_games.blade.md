@@ -63,6 +63,7 @@ links: [
     ]
     [
         ["Versatile","http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&range%5Bminplayers%5D%5Bmax%5D=2&range%5Bmaxplayers%5D%5Bmin%5D=4&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=exclusive&B1=Submit"],
+        ["Card Games","http://boardgamegeek.com/search/boardgame?sort=rank&advsearch=1&floatrange%5Bavgweight%5D%5Bmin%5D=1&floatrange%5Bavgweight%5D%5Bmax%5D=2&nosubtypes%5B0%5D=boardgameexpansion&playerrangetype=normal&propertyids%5B0%5D=1002&B1=Submit"],
     ],
     [
         ["Reviews","<heading>"],
