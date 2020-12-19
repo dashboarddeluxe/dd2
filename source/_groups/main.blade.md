@@ -13,8 +13,8 @@ links: [
     ],
     [
         ["Google","http://google.com"],
+        ["Image Search","http://images.google.com/"],
         ["Gmail","http://gmail.com"],
-        ["News","http://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en"],
         ["Keep","http://keep.google.com"],
         ["Calendar","http://calendar.google.com"],
         ["Drive","http://drive.google.com"],
@@ -23,12 +23,6 @@ links: [
     [
         ["Yahoo","http://yahoo.com"],
         ["Mail","http://mail.yahoo.com"],
-    ],
-    [
-        ["Samsung Seller Office","http://seller.samsungapps.com"],
-        ["Sales Summary","http://seller.samsungapps.com/accounting/accountingList.as"],
-        ["Buyer Comments","http://seller.samsungapps.com/comment/getCommentList.as"],
-        ["Coupons","http://seller.samsungapps.com/product/promotion/promotioncoupon.as"],
     ],
     [
         ["Facebook","http://facebook.com/"],
@@ -45,27 +39,12 @@ links: [
         ["Subscriptions","http://youtube.com/feed/subscriptions"],
         ["History","http://www.youtube.com/feed/history"],
     ],
-    [
-        ["Glary Utilies","http://download.glarysoft.com/guportable.zip"],
-        ["Wise Cleaner","http://www.wisecleaner.com/download.html"],
-        ["CCleaner","http://www.ccleaner.com/ccleaner/download/standard"],
-    ],
-    [
-        ["Windows Defender Definitions","http://www.microsoft.com/en-us/wdsi/definitions"],
-    ],
-    [
-        ["AV Comparatives Latest Tests","http://www.av-comparatives.org/latest-tests/"],
-    ],
+
     [
         ["WhatsApp","http://web.whatsapp.com/"],
         ["Telegram","http://web.telegram.org/"],
     ],
-    [
-        ["NapChart","http://napchart.com/app"],
-    ],
-    [
-        ["AllSides","http://www.allsides.com/unbiased-balanced-news"],
-    ],
+
     [
         ["E-Commerce","<heading>"],
     ],
@@ -76,5 +55,39 @@ links: [
         ["Shopee","http://shopee.ph/"],
         ["My Purchases","http://shopee.ph/user/purchase"],
     ],
+    [
+        ["Software","<heading>"],
+    ],
+    [
+        ["Glary Utilies","http://download.glarysoft.com/guportable.zip"],
+    ],
+    [
+        ["Wise Cleaner","http://www.wisecleaner.com/download.html"],
+    ],
+    [
+        ["CCleaner","http://www.ccleaner.com/ccleaner/download/standard"],
+    ],
+    [
+        ["Windows Defender Definitions","http://www.microsoft.com/en-us/wdsi/definitions"],
+    ],
+    [
+        ["AV Comparatives Latest Tests","http://www.av-comparatives.org/latest-tests/"],
+    ],
+    [
+        ["News","<heading>"],
+    ],
+    [
+        ["Google","http://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en"],
+    ]
+    [
+        ["AllSides","http://www.allsides.com/unbiased-balanced-news"],
+    ],
+    [
+        ["Productivity","<heading>"],
+    ],
+    [
+        ["NapChart","http://napchart.com/app"],
+    ],
+
 ]
 ---

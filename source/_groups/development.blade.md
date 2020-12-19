@@ -61,6 +61,9 @@ links: [
     [Reference and Training,"<heading>"],
 ]
 [
+    ["Tutorialspoint","http://www.tutorialspoint.com/web_development_tutorials.htm"],
+]
+[
     [Programming Notes for Professionals,"http://goalkicker.com/"],
 ],
 [
@@ -68,6 +71,9 @@ links: [
 ],
 [
     [Scrimba,"http://scrimba.com/"],
+],
+[
+    ["Cheltenham Courseware","http://www.cheltenhamcourseware.com/"],
 ],
 [
     [Browsers,"<heading>"],

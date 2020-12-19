@@ -140,5 +140,20 @@ links: [
 [
   [Designspiration,"http://www.designspiration.net/"],
 ],
+[
+  ["Samsung Watchfaces","<heading>"],
+]
+[
+        ["Samsung Seller Office","http://seller.samsungapps.com"],
+],
+[
+        ["Sales Summary","http://seller.samsungapps.com/accounting/accountingList.as"],
+],
+[
+["Buyer Comments","http://seller.samsungapps.com/comment/getCommentList.as"],
+],
+[
+["Coupons","http://seller.samsungapps.com/product/promotion/promotioncoupon.as"],
+],
 ]
 ---
