@@ -15,6 +15,8 @@
 </button>
 
 @push('scripts')
+<script src="/assets/build/js/menu.js"></script>
+{{--
 <script>
     const navMenu = {
         toggle() {
@@ -26,4 +28,5 @@
         },
     }
 </script>
+--}}
 @endpush
