@@ -9,7 +9,7 @@ environment = { PHP_VERSION = "7.4" }
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "script-src dd2.netlify.app;"
+    Content-Security-Policy = "script-src dd2.netlify.app 'nonce-dashboard-deluxe';"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "same-origin"
     Permissions-Policy = "geolocation=(self \"https://dd2.netlify.app\"), microphone=()"

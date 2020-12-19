@@ -15,7 +15,7 @@
 </button>
 
 @push('scripts')
-<script src="/assets/build/js/menu.js"></script>
+<script src="/assets/build/js/menu.js" nonce="dashboard-deluxe"></script>
 {{--
 <script>
     const navMenu = {
