@@ -50,7 +50,9 @@ links: [
     [COVID-19,"<heading>"],
 ]
 [
-    [COVID-19 Cases,"http://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"],
+    ["John Hopkins University","http://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"],
+],
+[
     [ncov2019.live,"http://ncov2019.live/"],
 ],
 [
@@ -58,7 +60,9 @@ links: [
     [Philippines,"http://www.worldometers.info/coronavirus/country/philippines/"],
 ],
 [
-    [DOH COVID-19 Tracker,"http://ncovtracker.doh.gov.ph/"],
+    [DOH-PH,"http://ncovtracker.doh.gov.ph/"],
+],
+[
     [endcov.ph,"http://endcov.ph/dashboard/"],
 ]
 ]
