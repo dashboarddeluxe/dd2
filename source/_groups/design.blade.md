@@ -141,8 +141,11 @@ links: [
   [Designspiration,"http://www.designspiration.net/"],
 ],
 [
-  ["Samsung Watchfaces","<heading>"],
+  ["Galaxy Watch Studio","<heading>"],
 ]
+[
+  ["Galaxy Watch Studio","http://developer.samsung.com/galaxy-watch-design/studio/overview.html"],
+],
 [
         ["Samsung Seller Office","http://seller.samsungapps.com"],
 ],
