@@ -16,6 +16,9 @@ links: [
         [Spurs,"http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs"],
     ],
     [
+        ["NBA Top Plays of the Night","http://www.youtube.com/c/NBA/search?query=NBA+Top+10+Plays+Of+The+Night"],
+    ],
+    [
         [Yahoo! Sports,"http://sports.yahoo.com/"],
         [NBA,"http://sports.yahoo.com/nba"],
     ]
@@ -72,7 +75,7 @@ links: [
         [ABC Sport,"http://abc.net.au/news/sport/"],
     ],
     [
-        [Cricinfo,"http://espncricinfo.com/?edition-view=espncricinfo-en-au&amp;set=true"],
+        [Cricinfo,"http://www.espncricinfo.com/"],
     ],
 ]
 ---

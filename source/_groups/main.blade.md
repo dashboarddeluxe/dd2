@@ -74,7 +74,7 @@ links: [
         ["AV Comparatives Latest Tests","http://www.av-comparatives.org/latest-tests/"],
     ],
     [
-        ["News","<heading>"],
+        ["News and Media","<heading>"],
     ],
     [
         ["Google","http://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en"],
@@ -82,6 +82,13 @@ links: [
     [
         ["AllSides","http://www.allsides.com/unbiased-balanced-news"],
     ],
+    [
+        ["Sky Cable","http://www.mysky.com.ph/metromanila/plans-and-bundles/690/cable/postpaid-hd-500"],
+        ["Promos","http://www.mysky.com.ph/metromanila/promos"],
+    ],
+    [
+        ["Casa Daza","http://www.youtube.com/results?search_query=casa+daza+metro.style&sp=CAISAhAB"],
+    ]
     [
         ["Productivity","<heading>"],
     ],

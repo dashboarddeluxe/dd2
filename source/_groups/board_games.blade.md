@@ -85,6 +85,11 @@ links: [
         ["Master List","http://meeplelikeus.co.uk/meeple-like-us-masterlist/"],
     ],
     [
+        ["What's Eric Playing","http://whatsericplaying.com/"],
+        ["Top 15","http://whatsericplaying.com/top-15/"],
+        ["Hot 15","http://whatsericplaying.com/hot-15/"]
+    ]
+    [
         ["Board vs Game","http://boardvsgame.com"],
     ],
     [
