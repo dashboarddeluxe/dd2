@@ -48,6 +48,8 @@ links: [
 ],
 [
     ["StepBible","http://www.stepbible.org/"],
+    ["NASB with Vocabulary Transliteration","http://www.stepbible.org/?q=version=NASB|reference=John.1&options=HTVRLGUN"],
+
 ],
 [
     ["ChristianDL","http://www.christiandl.com/unread/"],
