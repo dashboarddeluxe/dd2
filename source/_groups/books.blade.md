@@ -13,7 +13,8 @@ links: [
     ["Recommendations","http://www.goodreads.com/recommendations"],
 ],
 [
-    ["Library Genesis","http://libgen.lc/"],
+    ["Library Genesis","http://libgen.gs/"],
+    ["Proxies","http://libgen.onl/library-genesis/#Library_Genesis_Website_URLS"],
     ["Alternate 1","http://gen.lib.rus.ec/"],
     ["Alternate 2","http://libgen.pw/"],
 ],
