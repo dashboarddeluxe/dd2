@@ -77,6 +77,9 @@ links: [
         ["News and Media","<heading>"],
     ],
     [
+        ["Spotify","http://open.spotify.com/"]
+    ]
+    [
         ["Google","http://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en"],
     ]
     [
