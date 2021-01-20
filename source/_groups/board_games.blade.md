@@ -119,6 +119,7 @@ links: [
     ],
     [
         ["Geekbox PH","http://geekboxph.com/collections/shop-all?sort_by=created-descending"],
+        ["Shopee Store","http://shopee.ph/shop/45037362/search?page=0&sortBy=ctime"]
     ],
     [
         ["Board Game Express","http://shopee.ph/shop/120710033/search?page=0&sortBy=ctime"],
