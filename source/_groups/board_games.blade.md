@@ -70,7 +70,7 @@ links: [
     ]
     [
         ["Dice Tower","http://dicetower.com"],
-        ["Week in Review","http://www.youtube.com/results?search_query=dice+tower+week+in+review&amp;sp=CAISBAgEEAE%253D"],
+        ["Week in Review","http://www.youtube.com/playlist?list=PLOlRvTbmD6tLXrBugjAV1nlFMW5Z4OzJy"],
         ["Latest Review Videos","http://dicetower.com/board-game-videos?field_category_tid=5"],
         ["News","http://dicetowernews.com"],
     ],

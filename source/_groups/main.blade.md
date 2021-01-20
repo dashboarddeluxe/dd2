@@ -83,7 +83,7 @@ links: [
         ["AllSides","http://www.allsides.com/unbiased-balanced-news"],
     ],
     [
-        ["Sky Cable","http://www.mysky.com.ph/metromanila/plans-and-bundles/690/cable/postpaid-hd-500"],
+        ["Sky Cable","http://www.mysky.com.ph/2-play-channel-lineup"],
         ["Promos","http://www.mysky.com.ph/metromanila/promos"],
     ],
     [
