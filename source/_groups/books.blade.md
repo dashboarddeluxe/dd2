@@ -20,6 +20,7 @@ links: [
 ],
 [
     ["Z Library","http://b-ok.org/"],
+    ["Alternate 1","http://b-ok.asia/"]
 ],
 [
     ["Booksee","http://en.booksee.org/"],
