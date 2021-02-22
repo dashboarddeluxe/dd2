@@ -38,6 +38,7 @@ links: [
         ["YouTube","http://youtube.com/"],
         ["Subscriptions","http://youtube.com/feed/subscriptions"],
         ["History","http://www.youtube.com/feed/history"],
+        ["Studio","http://studio.youtube.com/"],
     ],
 
     [
