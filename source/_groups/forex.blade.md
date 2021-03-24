@@ -53,5 +53,23 @@ links: [
 [
     [PAFTI,"http://pafti.org/"],
 ],
+[
+    ["Cryptocurrency","<heading>"],
+],
+[
+    ["Coins.PH","http://app.coins.ph/wallet"],
+],
+[
+    ["BTCPHP","http://www.coingecko.com/en/coins/bitcoin/php"]
+],
+[
+    ["Uphold","http://uphold.com/dashboard"]
+],
+[
+    ["Kucoin","http://www.kucoin.com/account"]
+],
+[
+    ["publish0x.com","http://www.publish0x.com/home"]
+]
 ]
 ---
