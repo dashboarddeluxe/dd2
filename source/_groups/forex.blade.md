@@ -42,6 +42,9 @@ links: [
     [Blog,"http://nononsenseforex.com/forex-blog/"],
 ],
 [
+    ["No Nonsense Trader","http://nononsensetrader.com/"]
+],
+[
     [Telegram,"http://web.telegram.org"],
 ],
 [
@@ -49,9 +52,6 @@ links: [
 ],
 [
     [PAFTI,"http://pafti.org/"],
-],
-[
-    [Daily Forex Signals,"http://www.dailyforex.com/forex-technical-analysis/free-forex-signals/page-1"],
 ],
 ]
 ---
