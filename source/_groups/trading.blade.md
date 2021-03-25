@@ -73,6 +73,30 @@ links: [
 ],
 [
     ["publish0x.com","http://www.publish0x.com/home"]
-]
+],
+[
+    ["FreeMining.co","http://freemining.co/dashboard.php"]
+],
+[
+    ["MineZone.io","http://minezone.io/profile.php"]
+],
+[
+    ["Collect24.cloud","http://collect24.cloud/profile.php"]
+],
+[
+    ["HitMine.io","http://hitmine.io/member/dashboard"]
+],
+[
+    ["HitMine.io","http://hitmine.io/member/dashboard"]
+],
+[
+    ["MultiMining.website","http://multimining.website/member/dashboard"]
+],
+[
+    ["BitLand.pro","https://bitland.pro/cabinet"]
+],
+[
+    ["StormGain","https://app.stormgain.com"]
+],
 ]
 ---
