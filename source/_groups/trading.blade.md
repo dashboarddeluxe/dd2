@@ -128,7 +128,7 @@ links: [
 ],
 [
     ["NZD","<subheading>"],
-    ["GDT Price Index - GlobalDairyTrade","http://www.globaldairytrade.info/en/gdt-events/calendar/"],
+    ["GDT Price Index - GlobalDairyTrade (*)","http://www.globaldairytrade.info/en/gdt-events/calendar/"],
 ],
 [
     ["NZD","<subheading>"],
