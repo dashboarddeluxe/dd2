@@ -60,6 +60,16 @@ links: [
     [PAFTI,"http://pafti.org/"],
 ],
 [
+    ["Forex News Avoidance","<heading>"],
+],
+[
+    ["USD","<subheading>"],
+    ["CPI m/m - Consumer Price Index",""],
+    ["Fed Chair Speaks - Powell",""],
+    ["FOMC Statement - Interest Rate Statement",""],
+    ["Non-Farm Employment Change - Non-Farm Payrolls, NFP",""],
+],
+[
     ["Cryptocurrency","<heading>"],
 ],
 [
