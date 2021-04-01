@@ -79,6 +79,22 @@ links: [
     ["Non-Farm Employment Change - Non-Farm Payrolls, NFP",""],
 ],
 [
+    ["EUR","<subheading>"],
+    ["ECB Press Conference - ECB President Speaks - Lagarde",""],
+],
+[
+    ["EUR","<subheading>"],
+    ["Main Refinancing Rate - Interest Rates, Refi Rate, Repo Rate, Minimum Bid Rate",""],
+],
+[
+    ["GBP","<subheading>"],
+    ["GDP m/m - Gross Domestic Product",""],
+],
+[
+    ["GBP","<subheading>"],
+    ["Official Bank Rate - Interest Rates, MPC Official Bank Rate Votes",""],
+],
+[
     ["Cryptocurrency","<heading>"],
 ],
 [
