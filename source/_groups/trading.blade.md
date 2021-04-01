@@ -65,8 +65,17 @@ links: [
 [
     ["USD","<subheading>"],
     ["CPI m/m - Consumer Price Index",""],
+],
+[
+    ["USD","<subheading>"],
     ["Fed Chair Speaks - Powell",""],
+],
+[
+    ["USD","<subheading>"],
     ["FOMC Statement - Interest Rate Statement",""],
+],
+[
+    ["USD","<subheading>"],
     ["Non-Farm Employment Change - Non-Farm Payrolls, NFP",""],
 ],
 [
