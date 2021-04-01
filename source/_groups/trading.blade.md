@@ -140,7 +140,7 @@ links: [
 ],
 [
     ["CHF","<subheading>"],
-    ["SNB Monetary Policy Assessment - Interest Rate Statement, Swiss National Bank Statement",""],
+    ["SNB Monetary Policy Assessment - Interest Rate Statement",""],
 ],
 [
     ["Cryptocurrency","<heading>"],

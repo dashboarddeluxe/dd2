@@ -25,6 +25,8 @@
                                                 >
                                                 @if ($link[1] === '<subheading>')
                                                     <span class="font-bold">{{ $link[0] }}</span>
+                                                @elseif ($link[1] === '')
+                                                    {{ $link[0] }}
                                                 @else
                                                     <a href="{!!  $link[1] !!}" target="_blank"
                                                         rel="noopener noreferrer">{{ $link[0] }}</a>
