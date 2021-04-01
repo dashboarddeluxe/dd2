@@ -25,18 +25,22 @@
                                                 >
                                                 @if ($link[1] === '<subheading>')
                                                     <span class="font-bold">{{ $link[0] }}</span>
-                                                @elseif ($link[1] === '')
-                                                    {{ $link[0] }}
                                                 @else
                                                     <a href="{!!  $link[1] !!}" target="_blank"
                                                         rel="noopener noreferrer">{{ $link[0] }}</a>
                                                 @endif
                                             @endif
                                         @else
+                                            @if ($link[1] === '')
+                                            <div class="sm:inline-block"><span
+                                                    class="inline sm:hidden">-&nbsp;</span><span
+                                                    class="hidden sm:inline">|&nbsp;</span>{{ $link[0] }}</div>
+                                            @else
                                             <div class="sm:inline-block"><span
                                                     class="inline sm:hidden">-&nbsp;</span><span
                                                     class="hidden sm:inline">|&nbsp;</span><a href="{{ $link[1] }}"
                                                     target="_blank" rel="noopener noreferrer">{{ $link[0] }}</a></div>
+                                            @endif
                                         @endif
                                 @endforeach
                             </div>
