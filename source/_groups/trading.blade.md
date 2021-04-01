@@ -38,6 +38,9 @@ links: [
     [EA Builder,"http://www.eabuilder.com/"],
 ],
 [
+    ["Position Size Calculator (MT4)","http://www.earnforex.com/metatrader-indicators/Position-Size-Calculator/"],
+],
+[
     [SPFX Manual,"http://nobodytrader.com/your-first-trading-account/"],
 ],
 [
