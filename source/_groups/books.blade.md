@@ -6,7 +6,7 @@ date: 2017-03-23
 description: This is your first blog post.
 cover_image: /img/post-cover-image-2.png
 featured: true
-weight: 40
+weight: 35
 links: [
 [
     ["Goodreads","http://www.goodreads.com/"],
