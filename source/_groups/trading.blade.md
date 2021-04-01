@@ -84,7 +84,7 @@ links: [
 ],
 [
     ["EUR","<subheading>"],
-    ["Main Refinancing Rate - Interest Rates, Refi Rate, Repo Rate, Minimum Bid Rate",""],
+    ["Main Refinancing Rate - Interest Rates, Repo Rate, Minimum Bid Rate",""],
 ],
 [
     ["GBP","<subheading>"],
@@ -93,6 +93,54 @@ links: [
 [
     ["GBP","<subheading>"],
     ["Official Bank Rate - Interest Rates, MPC Official Bank Rate Votes",""],
+],
+[
+    ["CAD","<subheading>"],
+    ["BOC Rate Statement - Interest Rate Statement",""],
+],
+[
+    ["CAD","<subheading>"],
+    ["Core Retail Sales m/m",""],
+],
+[
+    ["CAD","<subheading>"],
+    ["CPI m/m - Consumer Price Index",""],
+],
+[
+    ["CAD","<subheading>"],
+    ["Employment Change - Unemployment Rate",""],
+],
+[
+    ["AUD","<subheading>"],
+    ["RBA Rate Statement - Interest Rate",""],
+],
+[
+    ["AUD","<subheading>"],
+    ["Employment Change - Unemployment Rate",""],
+],
+[
+    ["NZD","<subheading>"],
+    ["Employment Change q/q - Unemployment Rate",""],
+],
+[
+    ["NZD","<subheading>"],
+    ["GDP q/q - Gross Domestic Product",""],
+],
+[
+    ["NZD","<subheading>"],
+    ["GDT Price Index - GlobalDairyTrade","http://www.globaldairytrade.info/en/gdt-events/calendar/"],
+],
+[
+    ["NZD","<subheading>"],
+    ["RBNZ Rate Statement - Policy Assessment, Interest Rate Statement",""],
+],
+[
+    ["JPY","<subheading>"],
+    ["Monetary Policy Statement - Interest Rate Statement",""],
+],
+[
+    ["CHF","<subheading>"],
+    ["SNB Monetary Policy Assessment - Interest Rate Statement, Swiss National Bank Statement",""],
 ],
 [
     ["Cryptocurrency","<heading>"],
