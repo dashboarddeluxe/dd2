@@ -39,6 +39,7 @@ links: [
 ],
 [
     ["Position Size Calculator (MT4)","http://www.earnforex.com/metatrader-indicators/Position-Size-Calculator/"],
+    ["Releases","http://github.com/EarnForex/PositionSizeCalculator/releases"],
 ],
 [
     [SPFX Manual,"http://nobodytrader.com/your-first-trading-account/"],
