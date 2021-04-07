@@ -42,24 +42,24 @@ links: [
     ["Releases","http://github.com/EarnForex/PositionSizeCalculator/releases"],
 ],
 [
-    [SPFX Manual,"http://nobodytrader.com/your-first-trading-account/"],
-],
-[
     [No Nonsense Forex,"http://nononsenseforex.com/"],
     [Blog,"http://nononsenseforex.com/forex-blog/"],
 ],
 [
     ["No Nonsense Trader","http://nononsensetrader.com/"]
 ],
-[
-    [Telegram,"http://web.telegram.org"],
-],
-[
-    [AlphaPlay,"http://www.alphaplay.com.sg/"],
-],
-[
-    [PAFTI,"http://pafti.org/"],
-],
+# [
+#     [SPFX Manual,"http://nobodytrader.com/your-first-trading-account/"],
+# ],
+# [
+#     [Telegram,"http://web.telegram.org"],
+# ],
+# [
+#     [AlphaPlay,"http://www.alphaplay.com.sg/"],
+# ],
+# [
+#     [PAFTI,"http://pafti.org/"],
+# ],
 [
     ["Forex News Avoidance","<heading>"],
 ],
