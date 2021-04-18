@@ -12,54 +12,54 @@ links: [
     ["Forex","<heading>"],
 ],
 [
-    [ForexFactory,"http://forexfactory.com"],
-    [Calendar,"http://forexfactory.com/calendar.php"],
+    ["ForexFactory","http://forexfactory.com"],
+    ["Calendar","http://forexfactory.com/calendar.php"],
 ],
 [
-    [Euro FX VIX,"http://www.barchart.com/stocks/quotes/$EVZ/interactive-chart"],
-    [Analysis,"http://www.barchart.com/stocks/quotes/$EVZ/technical-chart?plot=LINE&volume=0&data=DO&density=ML&pricesOn=0&asPctChange=0&logscale=0&indicators=EXPMA(10)&sym=$EVZ&grid=1&height=250&studyheight=200"],
+    ["Euro FX VIX","http://www.barchart.com/stocks/quotes/$EVZ/interactive-chart"],
+    ["Analysis","http://www.barchart.com/stocks/quotes/$EVZ/technical-chart?plot=LINE&volume=0&data=DO&density=ML&pricesOn=0&asPctChange=0&logscale=0&indicators=EXPMA(10)&sym=$EVZ&grid=1&height=250&studyheight=200"],
 ],
 [
-    [Spike Charts,"http://next.newsimpact.com/economic-indicators/"],
+    ["Spike Charts","http://next.newsimpact.com/economic-indicators/"],
 ],
 [
-    [MyFXBook Dashboard,"http://myfxbook.com/dashboard"],
-    [EA Wizard,"http://www.myfxbook.com/en/help/connect-metatrader-ea"],
+    ["MyFXBook Dashboard","http://myfxbook.com/dashboard"],
+    ["EA Wizard","http://www.myfxbook.com/en/help/connect-metatrader-ea"],
 ],
 [
-    [Investing.com Economic Calendar,"http://investing.com/economic-calendar/"],
+    ["Investing.com Economic Calendar","http://investing.com/economic-calendar/"],
 ],
 [
-    [TradingView,"http://www.tradingview.com/"],
-    [Chart,"http://www.tradingview.com/chart"],
-    [KY,"http://www.tradingview.com/u/KarYong/"],
+    ["TradingView","http://www.tradingview.com/"],
+    ["Chart","http://www.tradingview.com/chart"],
+    ["KY","http://www.tradingview.com/u/KarYong/"],
 ],
 [
-    [EA Builder,"http://www.eabuilder.com/"],
+    ["EA Builder","http://www.eabuilder.com/"],
 ],
 [
     ["Position Size Calculator (MT4)","http://www.earnforex.com/metatrader-indicators/Position-Size-Calculator/"],
     ["Releases","http://github.com/EarnForex/PositionSizeCalculator/releases"],
 ],
 [
-    [No Nonsense Forex,"http://nononsenseforex.com/"],
-    [Blog,"http://nononsenseforex.com/forex-blog/"],
+    ["No Nonsense Forex","http://nononsenseforex.com/"],
+    ["Blog","http://nononsenseforex.com/forex-blog/"],
 ],
 [
     ["No Nonsense Trader","http://nononsensetrader.com/"]
 ],
 # [
-#     [SPFX Manual,"http://nobodytrader.com/your-first-trading-account/"],
+#     ["SPFX Manual","http://nobodytrader.com/your-first-trading-account/"],
 # ],
 # [
-#     [Telegram,"http://web.telegram.org"],
+#     ["Telegram","http://web.telegram.org"],
 # ],
 # [
-#     [AlphaPlay,"http://www.alphaplay.com.sg/"],
+#     ["AlphaPlay","http://www.alphaplay.com.sg/"],
 # ],
-# [
-#     [PAFTI,"http://pafti.org/"],
-# ],
+[
+    ["Philippine Association of Forex Traders Inc. (PAFTI)","http://www.pafti.ph/"],
+],
 [
     ["Forex News Avoidance","<heading>"],
 ],
