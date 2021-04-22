@@ -49,6 +49,10 @@ links: [
 [
     ["No Nonsense Trader","http://nononsensetrader.com/"]
 ],
+[
+    ["NNFX Algo Tester","http://nnfxalgotester.com/"],
+    ["Indicators","http://nnfxalgotester.com/help/c1-c2-volume-exit-cont-indicator/"],
+],
 # [
 #     ["SPFX Manual","http://nobodytrader.com/your-first-trading-account/"],
 # ],
