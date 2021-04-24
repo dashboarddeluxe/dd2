@@ -158,6 +158,9 @@ links: [
     ["BTCPHP","http://www.coingecko.com/en/coins/bitcoin/php"]
 ],
 [
+    ["CoinMarketCap","http://coinmarketcap.com/"],
+],
+[
     ["Uphold","http://uphold.com/dashboard"]
 ],
 [
