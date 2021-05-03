@@ -230,10 +230,10 @@ links: [
     ["USDCAD","http://www.myfxbook.com/community/outlook/USDCAD"],
 ],
 [
-    ["USDCHF","http://www.myfxbook.com/community/outlook/USDCAD"],
+    ["USDCHF","http://www.myfxbook.com/community/outlook/USDCHF"],
 ],
 [
-    ["USDJPY","http://www.myfxbook.com/community/outlook/USDCAD"],
+    ["USDJPY","http://www.myfxbook.com/community/outlook/USDJPY"],
 ],
 [
     ["Cryptocurrency","<heading>"],
