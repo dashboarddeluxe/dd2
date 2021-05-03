@@ -149,6 +149,93 @@ links: [
     ["SNB Monetary Policy Assessment - Interest Rate Statement",""],
 ],
 [
+    ["Forex Sentiment","<heading>"],
+],
+[
+    ["AUDCAD","http://www.myfxbook.com/community/outlook/AUDCAD"],
+],
+[
+    ["AUDCHF","http://www.myfxbook.com/community/outlook/AUDCHF"],
+],
+[
+    ["AUDJPY","http://www.myfxbook.com/community/outlook/AUDJPY"],
+],
+[
+    ["AUDNZD","http://www.myfxbook.com/community/outlook/AUDNZD"],
+],
+[
+    ["AUDUSD","http://www.myfxbook.com/community/outlook/AUDUSD"],
+],
+[
+    ["CADCHF","http://www.myfxbook.com/community/outlook/CADCHF"],
+],
+[
+    ["CADJPY","http://www.myfxbook.com/community/outlook/CADJPY"],
+],
+[
+    ["CHFJPY","http://www.myfxbook.com/community/outlook/CHFJPY"],
+],
+[
+    ["EURAUD","http://www.myfxbook.com/community/outlook/EURAUD"],
+],
+[
+    ["EURCAD","http://www.myfxbook.com/community/outlook/EURCAD"],
+],
+[
+    ["EURCHF","http://www.myfxbook.com/community/outlook/EURCHF"],
+],
+[
+    ["EURGBP","http://www.myfxbook.com/community/outlook/EURGBP"],
+],
+[
+    ["EURJPY","http://www.myfxbook.com/community/outlook/EURJPY"],
+],
+[
+    ["EURNZD","http://www.myfxbook.com/community/outlook/EURNZD"],
+],
+[
+    ["EURUSD","http://www.myfxbook.com/community/outlook/EURUSD"],
+],
+[
+    ["GBPAUD","http://www.myfxbook.com/community/outlook/GBPAUD"],
+],
+[
+    ["GBPCAD","http://www.myfxbook.com/community/outlook/GBPCAD"],
+],
+[
+    ["GBPCHF","http://www.myfxbook.com/community/outlook/GBPCHF"],
+],
+[
+    ["GBPJPY","http://www.myfxbook.com/community/outlook/GBPJPY"],
+],
+[
+    ["GBPNZD","http://www.myfxbook.com/community/outlook/GBPNZD"],
+],
+[
+    ["GBPUSD","http://www.myfxbook.com/community/outlook/GBPUSD"],
+],
+[
+    ["NZDCAD","http://www.myfxbook.com/community/outlook/NZDCAD"],
+],
+[
+    ["NZDCHF","http://www.myfxbook.com/community/outlook/NZDCHF"],
+],
+[
+    ["NZDJPY","http://www.myfxbook.com/community/outlook/NZDJPY"],
+],
+[
+    ["NZDUSD","http://www.myfxbook.com/community/outlook/NZDUSD"],
+],
+[
+    ["USDCAD","http://www.myfxbook.com/community/outlook/USDCAD"],
+],
+[
+    ["USDCHF","http://www.myfxbook.com/community/outlook/USDCAD"],
+],
+[
+    ["USDJPY","http://www.myfxbook.com/community/outlook/USDCAD"],
+],
+[
     ["Cryptocurrency","<heading>"],
 ],
 [
