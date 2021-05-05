@@ -149,7 +149,7 @@ links: [
     ["SNB Monetary Policy Assessment - Interest Rate Statement",""],
 ],
 [
-    ["Forex Sentiment","<heading>"],
+    ["Forex Sentiment - MyFXBook","<heading>"],
 ],
 [
     ["AUDCAD","http://www.myfxbook.com/community/outlook/AUDCAD"],
