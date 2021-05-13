@@ -239,6 +239,9 @@ links: [
     ["Cryptocurrency","<heading>"],
 ],
 [
+    ["CryptoCraft","http://www.cryptocraft.com/"],
+]
+[
     ["Coins.PH","http://app.coins.ph/wallet"],
 ],
 [
