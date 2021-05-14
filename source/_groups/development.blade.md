@@ -95,7 +95,7 @@ links: [
     ["Releases","http://github.com/leokhoa/laragon/releases"],
 ],
 [
-    ["Integrated Development Environments","<heading>"],
+    ["Text Editors","<heading>"],
 ],
 [
     ["Visual Studio Code","http://code.visualstudio.com/download"],
