@@ -45,7 +45,10 @@ links: [
         ["WhatsApp","http://web.whatsapp.com/"],
         ["Telegram","http://web.telegram.org/"],
     ],
-
+    [
+        ["World Time Buddy","http://www.worldtimebuddy.com/"],
+        ["Preset","http://www.worldtimebuddy.com/?pl=1&lid=1701668,5128581,2147714,6167865&h=1701668&date=6/14/2021%7C3&hf=0"],
+    ]
     [
         ["E-Commerce","<heading>"],
     ],
