@@ -45,6 +45,7 @@ links: [
     ["Wordpress","http://wordpress.org"],
     ["Releases","http://github.com/WordPress/WordPress/releases"]
     ["Planet","http://planet.wordpress.org"],
+    ["Full Site Editing","http://wordpress.org/themes/tags/full-site-editing/"],
 ],
 [
     ["Backdrop CMS","http://backdropcms.org"],
