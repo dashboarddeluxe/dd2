@@ -138,6 +138,9 @@ links: [
     ["Static Site Generators","<heading>"],
 ]
 [
+    ["Static Site Generators","http://jamstack.org/generators/"]
+]
+[
     ["Jigsaw","http://jigsaw.tighten.co/"],
     ["Docs","http://jigsaw.tighten.co/docs/installation/"],
     ["Releases","http://github.com/tighten/jigsaw/releases"],
