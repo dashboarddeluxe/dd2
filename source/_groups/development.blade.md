@@ -179,6 +179,9 @@ links: [
     ["Awesome TailwindCSS","http://awesomeopensource.com/project/aniftyco/awesome-tailwindcss"],
 ]
 [
+    ["TailBlocks","http://tailblocks.cc/"],
+]
+[
     ["Bootstrap",http://getbootstrap.com/],
     ["Docs",http://getbootstrap.com/docs/5.0/getting-started/introduction/],
     ["Blog",http://blog.getbootstrap.com/],
