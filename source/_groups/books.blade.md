@@ -13,7 +13,9 @@ links: [
     ["Recommendations","http://www.goodreads.com/recommendations"],
 ],
 [
-    ["Calibre","http://github.com/kovidgoyal/calibre/releases"],
+    ["Calibre Portable","http://calibre-ebook.com/download_portable"],
+    ["What's New","http://calibre-ebook.com/whats-new"],
+    ["Releases","http://github.com/kovidgoyal/calibre/releases"],
 ]
 [
     ["Library Genesis","http://libgen.gs/"],
