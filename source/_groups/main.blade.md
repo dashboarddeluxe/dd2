@@ -63,6 +63,18 @@ links: [
         ["My Purchases","http://shopee.ph/user/purchase"],
     ],
     [
+        ["Apparel","<heading>"],
+    ],
+    [
+        ["World Balance","http://www.worldbalance.com.ph/"],
+        ["Men Shoes","http://www.worldbalance.com.ph/men/shoes.html"],
+        ["Women Shoes","http://www.worldbalance.com.ph/women/shoes.html"],
+    ],
+    [
+        ["Cole Vintage","http://colevintage.com/"],
+        ["XL","https://colevintage.com/collections/sale-xlarge"],
+    ],
+    [
         ["Software","<heading>"],
     ],
     [
