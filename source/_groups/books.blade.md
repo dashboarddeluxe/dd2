@@ -40,6 +40,9 @@ links: [
     ["WOW eBook","http://wowebook.org"],
 ],
 [
+    ["OpenStax Textbooks","http://openstax.org/subjects/view-all"],
+],
+[
     ["Best Sellers","<heading>"],
 ],
 [
@@ -49,9 +52,6 @@ links: [
     ["New York Times","<subheading>"],
     ["Advice, How-To & Miscellaneous","http://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/"],
     ["Business","http://www.nytimes.com/books/best-sellers/business-books/"]
-],
-[
-    ["OpenStax Textbooks","http://openstax.org/subjects/view-all"],
 ],
 [
     ["Christian","<heading>"],
