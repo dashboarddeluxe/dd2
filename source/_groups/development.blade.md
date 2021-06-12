@@ -99,7 +99,8 @@ links: [
     ["Text Editors","<heading>"],
 ],
 [
-    ["Visual Studio Code","http://code.visualstudio.com/download"],
+    ["VS Codium","http://vscodium.com/"],
+    ["Releases","http://github.com/VSCodium/vscodium/releases"],
 ],
 [
     ["Sublime Text","http://www.sublimetext.com/3"],
