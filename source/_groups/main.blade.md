@@ -102,6 +102,9 @@ links: [
         ["Portapps","http://portapps.io/apps/"],
     ]
     [
+        ["CDKOffers","http://www.cdkoffers.com/"],
+    ]
+    [
         ["News and Media","<heading>"],
     ],
     [
