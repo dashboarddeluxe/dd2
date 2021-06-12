@@ -99,6 +99,9 @@ links: [
         ["BleachBit","http://www.bleachbit.org/download/windows"]
     ],
     [
+        ["Portapps","http://portapps.io/apps/"],
+    ]
+    [
         ["News and Media","<heading>"],
     ],
     [
