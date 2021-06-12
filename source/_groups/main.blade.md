@@ -100,10 +100,13 @@ links: [
     ],
     [
         ["Portapps","http://portapps.io/apps/"],
-    ]
+    ],
+    [
+        ["TCP Optimizer","http://www.speedguide.net/downloads.php"],
+    ],
     [
         ["CDKOffers","http://www.cdkoffers.com/"],
-    ]
+    ],
     [
         ["News and Media","<heading>"],
     ],
