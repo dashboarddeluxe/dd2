@@ -184,6 +184,7 @@ links: [
 ]
 [
     ["Wicked Blocks","http://wickedblocks.dev/"],
+]
 [
     ["Bootstrap",http://getbootstrap.com/],
     ["Docs",http://getbootstrap.com/docs/5.0/getting-started/introduction/],
