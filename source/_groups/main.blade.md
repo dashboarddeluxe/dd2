@@ -93,6 +93,9 @@ links: [
         ["AV Comparatives Latest Tests","http://www.av-comparatives.org/latest-tests/"],
     ],
     [
+        ["AV Test","http://www.av-test.org/en/"],
+    ],
+    [
         ["O&O ShutUp10","http://www.oo-software.com/en/shutup10"],
     ],
     [
