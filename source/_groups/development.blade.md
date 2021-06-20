@@ -100,7 +100,7 @@ links: [
 ],
 [
     ["VS Codium","http://vscodium.com/"],
-    ["Portable Releases","https://github.com/portapps/vscodium-portable/releases"],
+    ["Releases","http://github.com/VSCodium/vscodium/releases"],
 ],
 [
     ["Sublime Text","http://www.sublimetext.com/3"],
