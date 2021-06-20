@@ -183,6 +183,8 @@ links: [
     ["TailBlocks","http://tailblocks.cc/"],
 ]
 [
+    ["Wicked Blocks","http://wickedblocks.dev/"],
+[
     ["Bootstrap",http://getbootstrap.com/],
     ["Docs",http://getbootstrap.com/docs/5.0/getting-started/introduction/],
     ["Blog",http://blog.getbootstrap.com/],
