@@ -67,8 +67,8 @@ links: [
     ],
     [
         ["World Balance","http://www.worldbalance.com.ph/"],
-        ["Men Shoes","http://www.worldbalance.com.ph/men/shoes.html?___store=default"],
-        ["Women Shoes","http://www.worldbalance.com.ph/women/shoes.html?___store=default"],
+        ["Men Shoes","http://www.worldbalance.com.ph/men/shoes.html?product_list_limit=36"],
+        ["Women Shoes","http://www.worldbalance.com.ph/women/shoes.html?product_list_limit=36"],
         ["Clearance","http://www.worldbalance.com.ph/world-balance-clearance"],
     ],
     [
