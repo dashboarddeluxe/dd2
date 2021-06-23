@@ -66,7 +66,7 @@ links: [
     ["Philippines","http://www.worldometers.info/coronavirus/country/philippines/"],
 ],
 [
-    ["DOH-PH","http://ncovtracker.doh.gov.ph/"],
+    ["DOH COVID-19 Tracker","http://doh.gov.ph/covid19tracker"],
 ],
 [
     ["endcov.ph","http://endcov.ph/dashboard/"],
