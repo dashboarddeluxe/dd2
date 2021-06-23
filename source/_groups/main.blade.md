@@ -67,8 +67,9 @@ links: [
     ],
     [
         ["World Balance","http://www.worldbalance.com.ph/"],
-        ["Men Shoes","http://www.worldbalance.com.ph/men/shoes.html"],
-        ["Women Shoes","http://www.worldbalance.com.ph/women/shoes.html"],
+        ["Men Shoes","http://www.worldbalance.com.ph/men/shoes.html?___store=default"],
+        ["Women Shoes","http://www.worldbalance.com.ph/women/shoes.html?___store=default"],
+        ["Clearance","http://www.worldbalance.com.ph/world-balance-clearance"],
     ],
     [
         ["Cole Vintage","http://colevintage.com/"],
