@@ -98,6 +98,9 @@ links: [
         ["AV Test","http://www.av-test.org/en/"],
     ],
     [
+        ["TronScript","http://www.reddit.com/r/TronScript/wiki/downloads"],
+    ],
+    [
         ["O&O ShutUp10","http://www.oo-software.com/en/shutup10"],
     ],
     [
