@@ -15,6 +15,8 @@
 
         <link rel="home" href="{{ $page->baseUrl }}">
         <link rel="icon" href="/favicon.ico">
+        <link rel="preload" href="/assets/Inter.ttf" as="font" type="font/ttf" crossorigin> 
+
         {{--
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="{{ $page->siteName }} Atom Feed">
         --}}
