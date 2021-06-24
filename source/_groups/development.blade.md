@@ -10,6 +10,9 @@ featured: true
 weight: 15
 links: [
 [
+    ["Google PageSpeed Insights","https://developers.google.com/speed/pagespeed/insights/"],
+],
+[
     ["Namesilo","http://www.namesilo.com"],
 ],
 [
