@@ -33,17 +33,17 @@
                                         @else
                                             @if ($link[1] === '')
                                             <li class="sm:inline-block border-l-2 border-gray-500 pl-1 pr-0 mt-1">
-                                            <!--
+                                            {{--
                                             <span class="inline sm:hidden">-&nbsp;</span>
                                             <span class="hidden sm:inline">|&nbsp;</span>
-                                            -->
+                                            --}}
                                             {{ $link[0] }}</li>
                                             @else
                                             <li class="sm:inline-block border-l-2 border-gray-500 pl-1 pr-0 mt-1">
-                                            <!--
+                                            {{--
                                             <span class="inline sm:hidden">-&nbsp;</span>
                                             <span class="hidden sm:inline">|&nbsp;</span>
-                                            -->
+                                            --}}
                                             <a class="hover:underline" href="{{ $link[1] }}"
                                                     target="_blank" rel="noopener noreferrer">{{ $link[0] }}</a></li>
                                             @endif
