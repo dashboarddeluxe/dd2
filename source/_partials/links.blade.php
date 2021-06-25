@@ -22,27 +22,34 @@
                                                 class="xl:col-span-2 border-b-2 border-gray-400 pt-2" >
                                                 <div class="font-bold">{{ $link[0] }}</div>
                                             @else
-                                                >
+                                                ><ul class="list-inside">
                                                 @if ($link[1] === '<subheading>')
                                                     <span class="font-bold">{{ $link[0] }}</span>
                                                 @else
-                                                    <a href="{!!  $link[1] !!}" target="_blank"
-                                                        rel="noopener noreferrer">{{ $link[0] }}</a>
+                                                    <li class="sm:inline-block pr-0 mt-1"><a class="hover:underline" href="{!!  $link[1] !!}" target="_blank"
+                                                        rel="noopener noreferrer">{{ $link[0] }}</a></li>
                                                 @endif
                                             @endif
                                         @else
                                             @if ($link[1] === '')
-                                            <div class="sm:inline-block"><span
-                                                    class="inline sm:hidden">-&nbsp;</span><span
-                                                    class="hidden sm:inline">|&nbsp;</span>{{ $link[0] }}</div>
+                                            <li class="sm:inline-block border-l-2 border-gray-500 pl-1 pr-0 mt-1">
+                                            <!--
+                                            <span class="inline sm:hidden">-&nbsp;</span>
+                                            <span class="hidden sm:inline">|&nbsp;</span>
+                                            -->
+                                            {{ $link[0] }}</li>
                                             @else
-                                            <div class="sm:inline-block"><span
-                                                    class="inline sm:hidden">-&nbsp;</span><span
-                                                    class="hidden sm:inline">|&nbsp;</span><a href="{{ $link[1] }}"
-                                                    target="_blank" rel="noopener noreferrer">{{ $link[0] }}</a></div>
+                                            <li class="sm:inline-block border-l-2 border-gray-500 pl-1 pr-0 mt-1">
+                                            <!--
+                                            <span class="inline sm:hidden">-&nbsp;</span>
+                                            <span class="hidden sm:inline">|&nbsp;</span>
+                                            -->
+                                            <a class="hover:underline" href="{{ $link[1] }}"
+                                                    target="_blank" rel="noopener noreferrer">{{ $link[0] }}</a></li>
                                             @endif
                                         @endif
                                 @endforeach
+                                </ul>
                             </div>
                         @endforeach
                 </div>

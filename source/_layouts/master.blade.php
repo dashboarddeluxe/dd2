@@ -38,7 +38,7 @@
         <header class="flex items-center shadow bg-black py-2 z-50 h-16" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-6 md:px-16">
                 <div class="flex items-center">
-                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
+                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center hover:underline">
                         {{--
                         <img class="h-8 md:h-10 mr-2" src="/img/logo.png" alt="{{ $page->siteName }} logo" />
                         --}}

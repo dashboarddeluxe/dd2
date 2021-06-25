@@ -20,7 +20,7 @@
 @foreach ($groups as $group)
 
     <a href="#{{ $group->getFilename() }}"
-        class="ml-4 text-gray-100 font-semibold text-base">
+        class="ml-4 text-gray-100 font-semibold text-base hover:underline">
         @if ($group->short_title)
         {{ $group->short_title }}
         @else
