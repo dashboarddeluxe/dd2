@@ -11,6 +11,7 @@ weight: 15
 links: [
 [
     ["Google PageSpeed Insights","https://developers.google.com/speed/pagespeed/insights/"],
+    ["DD2","https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fdd2.netlify.app%2F"],
 ],
 [
     ["Namesilo","http://www.namesilo.com"],
