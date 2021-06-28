@@ -37,7 +37,7 @@
                                             --}}
                                             {{ $link[0] }}</li>
                                             @else
-                                            <li class="sm:inline-block border-l-2 border-gray-500 pl-1 pr-0 mt-1">
+                                            <li class="li">
                                             {{--
                                             <span class="inline sm:hidden">-&nbsp;</span>
                                             <span class="hidden sm:inline">|&nbsp;</span>
