@@ -16,13 +16,13 @@
                         @if ($group->links)
                             <div class="grid grid-cols-1 xl:grid-cols-2">
                                 @foreach ($group->links as $links)
-                                    <div @foreach ($links as $link)
+                                    @foreach ($links as $link)
                                         @if ($loop->first)
                                             @if ($link[1] === '<heading>')
                                                 class="xl:col-span-2 border-b-2 border-gray-400 pt-2" >
                                                 <div class="font-bold">{{ $link[0] }}</div>
                                             @else
-                                                ><ul class="list-inside">
+                                                <ul class="list-inside">
                                                 @if ($link[1] === '<subheading>')
                                                     <span class="font-bold">{{ $link[0] }}</span>
                                                 @else
@@ -50,7 +50,6 @@
                                         @endif
                                 @endforeach
                                 </ul>
-                            </div>
                         @endforeach
                 </div>
     @endif
