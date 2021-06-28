@@ -149,8 +149,19 @@ h6 {
     @apply .text-lg;
 }
 
-.li {
-    @apply sm:inline-block border-l-2 border-gray-500 pl-1 pr-0 mt-1;
+.li1 {
+    @apply sm:inline-block;
+    @apply pr-0;
+    @apply mt-1;
+}
+
+.li2 {
+    @apply sm:inline-block;
+    @apply border-l-2;
+    @apply border-gray-500;
+    @apply pl-1;
+    @apply pr-0;
+    @apply mt-1;
 }
 //
 // hr {
