@@ -150,19 +150,30 @@ h6 {
 }
 
 .li1 {
-    @apply sm:inline-block;
     @apply pr-0;
     @apply mt-1;
 }
 
+@screen sm {
+  .li1 {
+    @apply inline-block;
+  }
+}
+
 .li2 {
-    @apply sm:inline-block;
     @apply border-l-2;
     @apply border-gray-500;
     @apply pl-1;
     @apply pr-0;
     @apply mt-1;
 }
+
+@screen sm {
+  .li2 {
+    @apply inline-block;
+  }
+}
+
 //
 // hr {
 //     @apply .border-b;
