@@ -24,7 +24,7 @@
                                                 @if ($link[1] === '<subheading>')
                                                     <span class="font-bold">{{ $link[0] }}</span>
                                                 @else
-                                                    <li class="sm:inline-block pr-0 mt-1"><a class="hover:underline" href="{!!  $link[1] !!}" target="_blank"
+                                                    <li class="sm:inline-block pr-0 mt-1"><a href="{!!  $link[1] !!}" target="_blank"
                                                         rel="noopener noreferrer">{{ $link[0] }}</a></li>
                                                 @endif
                                             @endif
@@ -42,7 +42,7 @@
                                             <span class="inline sm:hidden">-&nbsp;</span>
                                             <span class="hidden sm:inline">|&nbsp;</span>
                                             --}}
-                                            <a class="hover:underline" href="{{ $link[1] }}"
+                                            <a href="{{ $link[1] }}"
                                                     target="_blank" rel="noopener noreferrer">{{ $link[0] }}</a></li>
                                             @endif
                                         @endif
