@@ -19,8 +19,7 @@
                                     @foreach ($links as $link)
                                         @if ($loop->first)
                                             @if ($link[1] === '<heading>')
-                                                class="xl:col-span-2 border-b-2 border-gray-400 pt-2" >
-                                                <div class="font-bold">{{ $link[0] }}</div>
+                                                <div class="font-bold xl:col-span-2 border-b-2 border-gray-400 pt-2">{{ $link[0] }}</div>
                                             @else
                                                 <ul class="list-inside">
                                                 @if ($link[1] === '<subheading>')
