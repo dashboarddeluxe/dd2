@@ -52,6 +52,9 @@ links: [
     ["Full Site Editing","http://wordpress.org/themes/tags/full-site-editing/"],
 ],
 [
+    ["Local","http://localwp.com/releases/"],
+]
+[
     ["Backdrop CMS","http://backdropcms.org"],
     ["Roadmap","http://backdropcms.org/roadmap"],
 ],
