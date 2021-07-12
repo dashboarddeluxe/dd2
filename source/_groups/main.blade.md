@@ -116,6 +116,9 @@ links: [
         ["CDKOffers","http://www.cdkoffers.com/"],
     ],
     [
+        ["The House of Portable","http://thehouseofportable.com/?home=1"],
+    ],
+    [
         ["News and Media","<heading>"],
     ],
     [
