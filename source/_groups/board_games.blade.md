@@ -88,13 +88,13 @@ links: [
         ["What's Eric Playing","http://whatsericplaying.com/"],
         ["Top 15","http://whatsericplaying.com/top-15/"],
         ["Hot 15","http://whatsericplaying.com/hot-15/"]
-    ]
+    ],
     [
         ["Board vs Game","http://boardvsgame.com"],
     ],
     [
         ["Print and Play","<heading>"],
-    ]
+    ],
     [
         ["PNP Board Games","http://www.boardgamer.ru/forum/index.php?action=unread"],
     ],

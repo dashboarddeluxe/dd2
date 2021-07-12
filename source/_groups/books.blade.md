@@ -16,7 +16,7 @@ links: [
     ["Calibre Portable","http://calibre-ebook.com/download_portable"],
     ["What's New","http://calibre-ebook.com/whats-new"],
     ["Releases","http://github.com/kovidgoyal/calibre/releases"],
-]
+],
 [
     ["Library Genesis","http://libgen.gs/"],
     ["Proxies","http://libgen.onl/library-genesis/#Library_Genesis_Website_URLS"],
