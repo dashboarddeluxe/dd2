@@ -12,6 +12,9 @@ links: [
         ["Netvibes Dashboard","http://www.netvibes.com/dashboard"],
     ],
     [
+        ["Feedly","http://feedly.com"],
+    ],
+    [
         ["Google","http://google.com"],
         ["Image Search","http://images.google.com/"],
         ["Gmail","http://gmail.com"],
