@@ -70,7 +70,7 @@ links: [
     ],
     [
         ["World Balance","http://www.worldbalance.com.ph/"],
-        ["Men Shoes","http://www.worldbalance.com.ph/men/shoes.html?product_list_limit=36"],
+        ["Men Shoes","http://www.worldbalance.com.ph/wb-men-homepage/shoes.html?product_list_limit=36"],
         ["Women Shoes","http://www.worldbalance.com.ph/women/shoes.html?product_list_limit=36"],
         ["Clearance","http://www.worldbalance.com.ph/world-balance-clearance"],
         ["Sale","http://www.worldbalance.com.ph/sale.html?product_list_limit=36"],
