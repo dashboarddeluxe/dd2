@@ -25,7 +25,9 @@ links: [
 ],
 [
     ["Z Library","http://b-ok.org/"],
-    ["Alternate 1","http://b-ok.asia/"]
+    ["Alternate 1","http://b-ok.asia/"],
+    ["Alternate 2","http://1lib.ph/"],
+    ["Alternate 3","http://au1lib.org/"]
 ],
 [
     ["Booksee","http://en.booksee.org/"],
