@@ -47,7 +47,7 @@ links: [
 ],
 [
     ["Wordpress","http://wordpress.org"],
-    ["Releases","http://github.com/WordPress/WordPress/releases"]
+    ["Releases","http://wordpress.org/download/releases/"]
     ["Planet","http://planet.wordpress.org"],
     ["Full Site Editing","http://wordpress.org/themes/tags/full-site-editing/"],
 ],
