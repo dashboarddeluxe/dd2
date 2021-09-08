@@ -20,6 +20,9 @@ links: [
     ["Whois Lookup","http://whois.domaintools.com/"],
 ],
 [
+    ["IP Location Finder","http://iplocation.io/"],
+],
+[
     ["HTTP Headers Analyzer","http://dri.es/headers?url=https://dd2.netlify.app"],
 ],
 [
