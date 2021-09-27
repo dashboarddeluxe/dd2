@@ -10,22 +10,24 @@ weight: 0
 links: [
     [
         ["Netvibes Dashboard","http://www.netvibes.com/dashboard"],
+        ["Feedly","http://feedly.com"],
     ],
     [
-        ["Feedly","http://feedly.com"],
+        ["Gmail","http://gmail.com"],
+        ["Mail","http://mail.yahoo.com"],
     ],
     [
         ["Google","http://google.com"],
         ["Image Search","http://images.google.com/"],
-        ["Gmail","http://gmail.com"],
         ["Keep","http://keep.google.com"],
         ["Calendar","http://calendar.google.com"],
         ["Drive","http://drive.google.com"],
         ["Photos","http://photos.google.com"],
     ],
     [
+        ["DuckDuckGo","https://duckduckgo.com/"],
         ["Yahoo","http://yahoo.com"],
-        ["Mail","http://mail.yahoo.com"],
+        ["Bing","http://bing.com"],
     ],
     [
         ["Facebook","http://facebook.com/"],
