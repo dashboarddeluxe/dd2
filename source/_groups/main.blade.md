@@ -14,7 +14,7 @@ links: [
     ],
     [
         ["Gmail","http://gmail.com"],
-        ["Mail","http://mail.yahoo.com"],
+        ["Yahoo! Mail","http://mail.yahoo.com"],
     ],
     [
         ["Google","http://google.com"],
@@ -26,7 +26,7 @@ links: [
     ],
     [
         ["DuckDuckGo","https://duckduckgo.com/"],
-        ["Yahoo","http://yahoo.com"],
+        ["Yahoo!","http://yahoo.com"],
         ["Bing","http://bing.com"],
     ],
     [
