@@ -48,16 +48,16 @@ links: [
         ["Spurs Nation","http://www.expressnews.com/sports/spurs/allspursnation/"],
     ],
     [
-        ["Best Defensive Rating","http://www.nba.com/stats/players/defense/?sort=DEF_RATING&dir=-1&Season=2020-21&SeasonType=Regular%20Season&Outcome=W&TeamID=1610612759&CF=MIN*GE*15"],
+        ["Best Defensive Rating","http://www.nba.com/stats/players/defense/?sort=DEF_RATING&dir=-1&Season=2021-22&SeasonType=Regular%20Season&Outcome=W&TeamID=1610612759&CF=MIN*GE*15"],
     ],
     [
-        ["Most Fantasy Points","http://www.nba.com/stats/players/traditional/?sort=NBA_FANTASY_PTS&dir=-1&Season=2020-21&SeasonType=Regular%20Season&TeamID=1610612759&CF=MIN*GE*15"],
+        ["Most Fantasy Points","http://www.nba.com/stats/players/traditional/?sort=NBA_FANTASY_PTS&dir=-1&Season=2021-22&SeasonType=Regular%20Season&TeamID=1610612759&CF=MIN*GE*15"],
     ],
     [
-        ["Plus Minus Player","http://www.nba.com/stats/players/traditional/?sort=PLUS_MINUS&dir=-1&Season=2020-21&SeasonType=Regular%20Season&TeamID=1610612759&CF=MIN*GE*15"]
+        ["Plus Minus Player","http://www.nba.com/stats/players/traditional/?sort=PLUS_MINUS&dir=-1&Season=2021-22&SeasonType=Regular%20Season&TeamID=1610612759&CF=MIN*GE*15"]
     ],
     [
-        ["Plus Minus Lineup","http://www.nba.com/stats/lineups/traditional/?sort=PLUS_MINUS&dir=1&Season=2020-21&SeasonType=Regular%20Season&PerMode=Totals&TeamID=1610612759"]
+        ["Plus Minus Lineup","http://www.nba.com/stats/lineups/traditional/?sort=PLUS_MINUS&dir=1&Season=2021-22&SeasonType=Regular%20Season&PerMode=Totals&TeamID=1610612759"]
     ],
     [
         ["NBA Fantasy","<heading>"],
