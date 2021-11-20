@@ -20,8 +20,9 @@ links: [
 [
     ["Library Genesis","http://libgen.gs/"],
     ["Proxies","http://libgen.onl/library-genesis/#Library_Genesis_Website_URLS"],
-    ["Alternate 1","http://gen.lib.rus.ec/"],
-    ["Alternate 2","http://libgen.pw/"],
+    ["Alternate 1","http://libgen.is/"],
+    ["Alternate 2","http://gen.lib.rus.ec/"],
+    ["Alternate 3","http://libgen.pw/"],
 ],
 [
     ["Z Library","http://b-ok.org/"],
