@@ -85,6 +85,11 @@ links: [
         ["Software","<heading>"],
     ],
     [
+        ["App Sales","http://www.app-sales.net/"],
+        ["Now Free","http://www.app-sales.net/nowfree/"],
+        ["Active Sales","http://www.app-sales.net/activesales/"],
+    ],
+    [
         ["Glary Utilies","http://download.glarysoft.com/guportable.zip"],
     ],
     [
