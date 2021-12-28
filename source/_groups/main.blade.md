@@ -143,7 +143,7 @@ links: [
     [
         ["Sky Cable","http://www.mysky.com.ph/2-play-channel-lineup"],
         ["Promos","http://www.mysky.com.ph/metromanila/promos"],
-        ["Service Advisories","https://www.mysky.com.ph/help-service-advisories"],
+        ["Service Advisories","http://www.mysky.com.ph/help-service-advisories"],
         ["Advisory","http://skyadvisory.mysky.com.ph/"],
         ["Support","http://www.mysky.com.ph/metromanila/contact-us/inquiries"],
     ],
