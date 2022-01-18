@@ -70,6 +70,9 @@ links: [
 ],
 [
     ["endcov.ph","http://endcov.ph/dashboard/"],
-]
+],
+[
+    ["COVID-19 Variants","http://www.who.int/en/activities/tracking-SARS-CoV-2-variants/"],
+],
 ]
 ---
