@@ -10,6 +10,7 @@ weight: 0
 links: [
     [
         ["Netvibes Dashboard","http://www.netvibes.com/dashboard"],
+        ["Mobile Netvibes","http://mobile.netvibes.com"],
         ["Feedly","http://feedly.com"],
     ],
     [
