@@ -53,7 +53,7 @@ links: [
     ],
     [
         ["World Time Buddy","http://www.worldtimebuddy.com/"],
-        ["Preset","https://www.worldtimebuddy.com/?pl=1&lid=1701668,2147714,5308655,6167865&hf=0"],
+        ["Preset","https://www.worldtimebuddy.com/?pl=1&lid=1701668,5192726,5308655&hf=0"],
     ]
     [
         ["Open Speed Test","http://openspeedtest.com/"],
@@ -138,7 +138,7 @@ links: [
         ["AllSides","http://www.allsides.com/unbiased-balanced-news"],
     ],
     [
-        ["Sky Cable","http://www.mysky.com.ph/2-play-channel-lineup"],
+        ["Sky Cable","https://www.mysky.com.ph/metromanila"],
         ["Promos","http://www.mysky.com.ph/metromanila/promos"],
         ["Service Advisories","http://www.mysky.com.ph/help-service-advisories"],
         ["Advisory","http://skyadvisory.mysky.com.ph/"],
