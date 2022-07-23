@@ -49,12 +49,6 @@ links: [
     ["Docs","http://www.codeigniter.com/user_guide/index.html#"],
 ],
 [
-    ["Wordpress","http://wordpress.org"],
-    ["Releases","http://wordpress.org/download/releases/"]
-    ["Planet","http://planet.wordpress.org"],
-    ["Full Site Editing","http://wordpress.org/themes/tags/full-site-editing/"],
-],
-[
     ["Local","http://localwp.com/releases/"],
 ]
 [
@@ -116,6 +110,19 @@ links: [
     ["Sublime Text","http://www.sublimetext.com/3"],
     ["Popular Packages","http://packagecontrol.io/browse/popular"],
 ],
+[
+    ["WordPress", "<heading>"],
+],
+[
+    ["Wordpress","http://wordpress.org"],
+    ["Releases","http://wordpress.org/download/releases/"]
+    ["Planet","http://planet.wordpress.org"],
+    ["Full Site Editing","http://wordpress.org/themes/tags/full-site-editing/"],
+],
+[
+    ["WP Hive","http://wphive.com/"],
+    ["Gutenberg","http://wphive.com/plugin-search/?category=gutenberg&search=&sortby=active-installs-desc"],
+]
 [
     ["Drupal", "<heading>"],
 ],
