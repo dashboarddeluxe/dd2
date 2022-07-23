@@ -124,6 +124,9 @@ links: [
     ["Gutenberg","http://wphive.com/plugin-search/?category=gutenberg&search=&sortby=active-installs-desc"],
 ]
 [
+    ["GenerateWP","http://generatewp.com/"],
+]
+[
     ["FreeWP","http://freewp.io/"],
 ]
 [
