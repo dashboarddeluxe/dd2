@@ -126,7 +126,7 @@ links: [
         ["The House of Portable","http://thehouseofportable.com/?home=1"],
     ],
     [
-        ["The Ultimate Windows Utility",""];
+        ["The Ultimate Windows Utility",""],
         ["iwr -useb https://christitus.com/win | iex",""],
     ],
     [
