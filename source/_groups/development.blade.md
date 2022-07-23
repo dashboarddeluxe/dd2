@@ -169,8 +169,8 @@ links: [
 [
     ["Hugo","http://gohugo.io/"],
     ["Releases","http://github.com/gohugoio/hugo/releases"],
-    ["TailwindCSS Themes","http://themes.gohugo.io/tags/tailwindcss/"],
     ["Bootstrap Themes","http://themes.gohugo.io/tags/bootstrap/"],
+    ["Congo Theme","http://github.com/jpanther/congo/releases"],
 ],
 [
     ["Netlify","http://app.netlify.com"],
