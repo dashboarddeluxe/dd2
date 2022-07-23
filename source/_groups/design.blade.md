@@ -60,6 +60,15 @@ links: [
   ["SuperFamous Images","http://images.superfamous.com/"],
 ],
 [
+  ["Icons","<heading>"],
+],
+[
+  ["Icomoon App","http://icomoon.io/app"],
+],
+[
+  ["Heroicons","http://heroicons.com/"],
+],
+[
   ["Patterns","<heading>"],
 ],
 [
@@ -79,6 +88,9 @@ links: [
 ],
 [
   ["Material Design Background Generator","http://stringsistemas.com/materialgenerator.html"],
+],
+[
+  ["Hero Patterns","http://heropatterns.com/"],
 ],
 [
   ["Flaticon Patterns","http://pattern.flaticon.com/"],
