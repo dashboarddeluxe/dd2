@@ -14,220 +14,220 @@ links: [
     ["DD2","https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdd2.netlify.app%2F"],
 ],
 [
-    ["Namesilo","http://www.namesilo.com"],
+    ["Namesilo","https://www.namesilo.com"],
 ],
 [
-    ["Whois Lookup","http://whois.domaintools.com/"],
+    ["Whois Lookup","https://whois.domaintools.com/"],
 ],
 [
-    ["IP Location Finder","http://iplocation.io/"],
+    ["IP Location Finder","https://iplocation.io/"],
 ],
 [
-    ["HTTP Headers Analyzer","http://dri.es/headers?url=https://dd2.netlify.app"],
+    ["HTTP Headers Analyzer","https://dri.es/headers?url=https://dd2.netlify.app"],
 ],
 [
     ["Header Security Scan","https://securityheaders.com/?q=https%3A%2F%2Fdd2.netlify.app%2F"],
 ],
 [
-    ["FB Sharing Debugger","http://developers.facebook.com/tools/debug/"],
+    ["FB Sharing Debugger","https://developers.facebook.com/tools/debug/"],
 ],
 [
     ["PHP","<heading>"],
 ]
 [
-    ["Laravel","http://laravel.com"],
-    ["6 Docs","http://laravel.com/docs/6.x"],
-    ["Top Packages","http://laravel.bepsvpt.me/"],
+    ["Laravel","https://laravel.com"],
+    ["6 Docs","https://laravel.com/docs/6.x"],
+    ["Top Packages","https://laravel.bepsvpt.me/"],
 ]
 [
-    ["Voyager","http://voyager.devdojo.com/"],
-    ["Releases","http://github.com/the-control-group/voyager/releases"],
-    ["Docs","http://voyager-docs.devdojo.com/"],
+    ["Voyager","https://voyager.devdojo.com/"],
+    ["Releases","https://github.com/the-control-group/voyager/releases"],
+    ["Docs","https://voyager-docs.devdojo.com/"],
 ]
 [
-    ["CodeIgniter","http://www.codeigniter.com/"],
-    ["Docs","http://www.codeigniter.com/user_guide/index.html#"],
+    ["CodeIgniter","https://www.codeigniter.com/"],
+    ["Docs","https://www.codeigniter.com/user_guide/index.html#"],
 ],
 [
-    ["Local","http://localwp.com/releases/"],
+    ["Local","https://localwp.com/releases/"],
 ]
 [
-    ["Backdrop CMS","http://backdropcms.org"],
-    ["Roadmap","http://backdropcms.org/roadmap"],
+    ["Backdrop CMS","https://backdropcms.org"],
+    ["Roadmap","https://backdropcms.org/roadmap"],
 ],
 [
-    ["Grav","http://getgrav.org/"],
-    ["Releases","http://github.com/getgrav/grav/releases"],
+    ["Grav","https://getgrav.org/"],
+    ["Releases","https://github.com/getgrav/grav/releases"],
 ],
 [
-    ["PHP Download","http://php-download.com/"],
+    ["PHP Download","https://php-download.com/"],
 ],
 [
     ["Reference and Training","<heading>"],
 ]
 [
-    ["Tutorialspoint","http://www.tutorialspoint.com/web_development_tutorials.htm"],
+    ["Tutorialspoint","https://www.tutorialspoint.com/web_development_tutorials.htm"],
 ]
 [
-    ["Programming Notes for Professionals","http://goalkicker.com/"],
+    ["Programming Notes for Professionals","https://goalkicker.com/"],
 ],
 [
-    ["Free Code Camp","http://learn.freecodecamp.org/"],
+    ["Free Code Camp","https://learn.freecodecamp.org/"],
 ],
 [
-    ["Scrimba","http://scrimba.com/"],
+    ["Scrimba","https://scrimba.com/"],
 ],
 [
-    ["Cheltenham Courseware","http://www.cheltenhamcourseware.com/"],
+    ["Cheltenham Courseware","https://www.cheltenhamcourseware.com/"],
 ],
 [
     ["Browsers","<heading>"],
 ]
 [
-    ["Brave Browser Portable","http://github.com/portapps/brave-portable/releases"],
+    ["Brave Browser Portable","https://github.com/portapps/brave-portable/releases"],
 ],
 [
-    ["Firefox Portable","http://portableapps.com/apps/internet/firefox_portable"],
+    ["Firefox Portable","https://portableapps.com/apps/internet/firefox_portable"],
 ],
 [
     ["Servers","<heading>"],
 ],
 [
-    ["XAMPP","http://www.apachefriends.org/download.html"],
+    ["XAMPP","https://www.apachefriends.org/download.html"],
 ],
 [
-    ["Laragon","http://www.laragon.org/"],
-    ["Releases","http://github.com/leokhoa/laragon/releases"],
+    ["Laragon","https://www.laragon.org/"],
+    ["Releases","https://github.com/leokhoa/laragon/releases"],
 ],
 [
     ["Text Editors","<heading>"],
 ],
 [
-    ["VS Codium","http://vscodium.com/"],
-    ["Releases","http://github.com/VSCodium/vscodium/releases"],
+    ["VS Codium","https://vscodium.com/"],
+    ["Releases","https://github.com/VSCodium/vscodium/releases"],
 ],
 [
-    ["Sublime Text","http://www.sublimetext.com/3"],
-    ["Popular Packages","http://packagecontrol.io/browse/popular"],
+    ["Sublime Text","https://www.sublimetext.com/3"],
+    ["Popular Packages","https://packagecontrol.io/browse/popular"],
 ],
 [
     ["WordPress", "<heading>"],
 ],
 [
-    ["Wordpress","http://wordpress.org"],
-    ["Releases","http://wordpress.org/download/releases/"]
-    ["Planet","http://planet.wordpress.org"],
-    ["Full Site Editing","http://wordpress.org/themes/tags/full-site-editing/"],
+    ["Wordpress","https://wordpress.org"],
+    ["Releases","https://wordpress.org/download/releases/"]
+    ["Planet","https://planet.wordpress.org"],
+    ["Full Site Editing","https://wordpress.org/themes/tags/full-site-editing/"],
 ],
 [
-    ["WP Hive","http://wphive.com/"],
-    ["Gutenberg","http://wphive.com/plugin-search/?category=gutenberg&search=&sortby=active-installs-desc"],
+    ["WP Hive","https://wphive.com/"],
+    ["Gutenberg","https://wphive.com/plugin-search/?category=gutenberg&search=&sortby=active-installs-desc"],
 ]
 [
-    ["GenerateWP","http://generatewp.com/"],
+    ["GenerateWP","https://generatewp.com/"],
 ]
 [
-    ["FreeWP","http://freewp.io/"],
+    ["FreeWP","https://freewp.io/"],
 ]
 [
     ["Drupal", "<heading>"],
 ],
 [
-    ["Drupal","http://drupal.org/"],
-    ["Planet","http://drupal.org/planet"],
-    ["Initiatives","http://www.drupal.org/about/core/strategic-initiatives"],
-    ["Usage","http://www.drupal.org/project/usage/"],
+    ["Drupal","https://drupal.org/"],
+    ["Planet","https://drupal.org/planet"],
+    ["Initiatives","https://www.drupal.org/about/core/strategic-initiatives"],
+    ["Usage","https://www.drupal.org/project/usage/"],
 ],
 [
-    ["Droopler","http://github.com/droptica/droopler_project/releases"],
-    ["Releases","http://www.drupal.org/project/droopler/releases"],
+    ["Droopler","https://github.com/droptica/droopler_project/releases"],
+    ["Releases","https://www.drupal.org/project/droopler/releases"],
 ],
 [
-    ["Drupal 9","http://www.drupal.org/about/9"],
-    ["Modules","http://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=sm_core_compatibility%3A9&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
-    ["Themes","http://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
-    ["Distributions","http://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    ["Drupal 9","https://www.drupal.org/about/9"],
+    ["Modules","https://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=sm_core_compatibility%3A9&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    ["Themes","https://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    ["Distributions","https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A9&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
 ],
 [
-    ["Drupal 8","http://www.drupal.org/8"],
-    ["Modules","http://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=sm_core_compatibility%3A8&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
-    ["Themes","http://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
-    ["Distributions","http://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    ["Drupal 8","https://www.drupal.org/8"],
+    ["Modules","https://www.drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=sm_core_compatibility%3A8&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    ["Themes","https://www.drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
+    ["Distributions","https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=sm_core_compatibility%3A8&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search"],
 
 ]
 [
-    ["Drupal Modules: The 1%","http://vimeo.com/user10080484"],
+    ["Drupal Modules: The 1%","https://vimeo.com/user10080484"],
 ],
 [
     ["Static Site Generators","<heading>"],
 ]
 [
-    ["Static Site Generators","http://jamstack.org/generators/"]
+    ["Static Site Generators","https://jamstack.org/generators/"]
 ]
 [
-    ["Jigsaw","http://jigsaw.tighten.co/"],
-    ["Docs","http://jigsaw.tighten.co/docs/installation/"],
-    ["Releases","http://github.com/tighten/jigsaw/releases"],
+    ["Jigsaw","https://jigsaw.tighten.co/"],
+    ["Docs","https://jigsaw.tighten.co/docs/installation/"],
+    ["Releases","https://github.com/tighten/jigsaw/releases"],
 ],
 [
-    ["Hugo","http://gohugo.io/"],
-    ["Releases","http://github.com/gohugoio/hugo/releases"],
-    ["Bootstrap Themes","http://themes.gohugo.io/tags/bootstrap/"],
-    ["Congo Theme","http://github.com/jpanther/congo/releases"],
+    ["Hugo","https://gohugo.io/"],
+    ["Releases","https://github.com/gohugoio/hugo/releases"],
+    ["Bootstrap Themes","https://themes.gohugo.io/tags/bootstrap/"],
+    ["Congo Theme","https://github.com/jpanther/congo/releases"],
 ],
 [
-    ["Netlify","http://app.netlify.com"],
-    ["Dashboard Deluxe 2","http://dd2.netlify.app"],
-    ["Dashboard Deluxe","http://dashboarddeluxe.netlify.app"],
+    ["Netlify","https://app.netlify.com"],
+    ["Dashboard Deluxe 2","https://dd2.netlify.app"],
+    ["Dashboard Deluxe","https://dashboarddeluxe.netlify.app"],
 ],
 [
-    ["Github","http://github.com"],
-    ["Dashboard Deluxe","http://github.com/dashboarddeluxe/"],
-    ["Dashboard Deluxe Site","http://github.com/dashboarddeluxe/dashboarddeluxe.github.io"],
+    ["Github","https://github.com"],
+    ["Dashboard Deluxe","https://github.com/dashboarddeluxe/"],
+    ["Dashboard Deluxe Site","https://github.com/dashboarddeluxe/dashboarddeluxe.github.io"],
 ],
 [
-    ["Prose","http://prose.io"],
-    ["Edit Dashboard Deluxe","http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md"],
+    ["Prose","https://prose.io"],
+    ["Edit Dashboard Deluxe","https://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md"],
 ],
 [
     ["CSS Frameworks","<heading>"],
 ],
 [
-    ["Bootstrap",http://getbootstrap.com/],
-    ["Docs",http://getbootstrap.com/docs/5.0/getting-started/introduction/],
-    ["Blog",http://blog.getbootstrap.com/],
-    ["Releases",http://github.com/twbs/bootstrap/releases],
+    ["Bootstrap",https://getbootstrap.com/],
+    ["Docs",https://getbootstrap.com/docs/5.0/getting-started/introduction/],
+    ["Blog",https://blog.getbootstrap.com/],
+    ["Releases",https://github.com/twbs/bootstrap/releases],
 ],
 [
-    ["TailwindCSS","http://tailwindcss.com/"],
-    ["Docs","http://tailwindcss.com/docs"],
-    ["v1 Docs","http://v1.tailwindcss.com/docs/"],
-    ["Play","http://play.tailwindcss.com/"],
-    ["Releases","http://github.com/tailwindlabs/tailwindcss/releases"],
+    ["TailwindCSS","https://tailwindcss.com/"],
+    ["Docs","https://tailwindcss.com/docs"],
+    ["v1 Docs","https://v1.tailwindcss.com/docs/"],
+    ["Play","https://play.tailwindcss.com/"],
+    ["Releases","https://github.com/tailwindlabs/tailwindcss/releases"],
 ],
 [
-    ["Awesome TailwindCSS","http://awesomeopensource.com/project/aniftyco/awesome-tailwindcss"],
+    ["Awesome TailwindCSS","https://awesomeopensource.com/project/aniftyco/awesome-tailwindcss"],
 ],
 [
-    ["TailBlocks","http://tailblocks.cc/"],
+    ["TailBlocks","https://tailblocks.cc/"],
 ],
 [
-    ["Wicked Blocks","http://wickedblocks.dev/"],
+    ["Wicked Blocks","https://wickedblocks.dev/"],
 ],
 [
-    ["Built With Tailwind","http://builtwithtailwind.com/"],
+    ["Built With Tailwind","https://builtwithtailwind.com/"],
 ],
 [
     ["Pantheon","<heading>"],
 ],
 [
-    ["Dashboard","http://dashboard.pantheon.io"],
+    ["Dashboard","https://dashboard.pantheon.io"],
 ],
 [
-    ["Drupal","http://dev-www-drupal.pantheonsite.io/"],
+    ["Drupal","https://dev-www-drupal.pantheonsite.io/"],
 ],
 [
-    ["Wordpress","http://dev-www-wordpress.pantheonsite.io/"],
+    ["Wordpress","https://dev-www-wordpress.pantheonsite.io/"],
 ],
 ]
 ---

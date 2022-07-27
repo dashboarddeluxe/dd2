@@ -9,121 +9,121 @@ featured: true
 weight: 0
 links: [
     [
-        ["Netvibes Dashboard","http://www.netvibes.com/dashboard"],
-        ["Mobile Netvibes","http://mobile.netvibes.com"],
-        ["Feedly","http://feedly.com"],
+        ["Netvibes Dashboard","https://www.netvibes.com/dashboard"],
+        ["Mobile Netvibes","https://mobile.netvibes.com"],
+        ["Feedly","https://feedly.com"],
     ],
     [
-        ["Gmail","http://gmail.com"],
-        ["Yahoo! Mail","http://mail.yahoo.com"],
+        ["Gmail","https://gmail.com"],
+        ["Yahoo! Mail","https://mail.yahoo.com"],
     ],
     [
-        ["Google","http://google.com"],
-        ["Image Search","http://images.google.com/"],
-        ["Keep","http://keep.google.com"],
-        ["Calendar","http://calendar.google.com"],
-        ["Drive","http://drive.google.com"],
-        ["Photos","http://photos.google.com"],
+        ["Google","https://google.com"],
+        ["Image Search","https://images.google.com/"],
+        ["Keep","https://keep.google.com"],
+        ["Calendar","https://calendar.google.com"],
+        ["Drive","https://drive.google.com"],
+        ["Photos","https://photos.google.com"],
     ],
     [
         ["DuckDuckGo","https://duckduckgo.com/"],
-        ["Yahoo!","http://yahoo.com"],
-        ["Bing","http://bing.com"],
+        ["Yahoo!","https://yahoo.com"],
+        ["Bing","https://bing.com"],
     ],
     [
-        ["Facebook","http://facebook.com/"],
-        ["Messenger","http://facebook.com/messages"],
-        ["Basic","http://mbasic.facebook.com"],
-        ["Basic Messenger","http://mbasic.facebook.com/messages/?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fhome.php&amp;refid=8"],
+        ["Facebook","https://facebook.com/"],
+        ["Messenger","https://facebook.com/messages"],
+        ["Basic","https://mbasic.facebook.com"],
+        ["Basic Messenger","https://mbasic.facebook.com/messages/?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fhome.php&amp;refid=8"],
     ],
     [
-        ["Twitter","http://twitter.com/home"],
-        ["Trends","http://twitter.com/i/trends"],
+        ["Twitter","https://twitter.com/home"],
+        ["Trends","https://twitter.com/i/trends"],
     ],
     [
-        ["YouTube","http://youtube.com/"],
-        ["Subscriptions","http://youtube.com/feed/subscriptions"],
-        ["History","http://www.youtube.com/feed/history"],
-        ["Studio","http://studio.youtube.com/"],
+        ["YouTube","https://youtube.com/"],
+        ["Subscriptions","https://youtube.com/feed/subscriptions"],
+        ["History","https://www.youtube.com/feed/history"],
+        ["Studio","https://studio.youtube.com/"],
     ],
 
     [
-        ["WhatsApp","http://web.whatsapp.com/"],
-        ["Telegram","http://web.telegram.org/"],
+        ["WhatsApp","https://web.whatsapp.com/"],
+        ["Telegram","https://web.telegram.org/"],
     ],
     [
-        ["World Time Buddy","http://www.worldtimebuddy.com/"],
+        ["World Time Buddy","https://www.worldtimebuddy.com/"],
         ["Preset","https://www.worldtimebuddy.com/?pl=1&lid=1701668,5192726,5308655&hf=0"],
     ]
     [
-        ["Open Speed Test","http://openspeedtest.com/"],
+        ["Open Speed Test","https://openspeedtest.com/"],
     ]
     [
         ["E-Commerce","<heading>"],
     ],
     [
-        ["Lazada","http://lazada.com.ph/"],
+        ["Lazada","https://lazada.com.ph/"],
     ],
     [
-        ["Shopee","http://shopee.ph/"],
-        ["My Purchases","http://shopee.ph/user/purchase"],
+        ["Shopee","https://shopee.ph/"],
+        ["My Purchases","https://shopee.ph/user/purchase"],
     ],
     [
         ["Apparel","<heading>"],
     ],
     [
-        ["World Balance","http://www.worldbalance.com.ph/"],
+        ["World Balance","https://www.worldbalance.com.ph/"],
     ],
     [
-        ["Cole Vintage","http://colevintage.com/"],
+        ["Cole Vintage","https://colevintage.com/"],
         ["XL","https://colevintage.com/collections/sale-xlarge"],
     ],
     [
         ["Software","<heading>"],
     ],
     [
-        ["App Sales","http://www.app-sales.net/"],
-        ["Now Free","http://www.app-sales.net/nowfree/"],
-        ["Active Sales","http://www.app-sales.net/activesales/"],
+        ["App Sales","https://www.app-sales.net/"],
+        ["Now Free","https://www.app-sales.net/nowfree/"],
+        ["Active Sales","https://www.app-sales.net/activesales/"],
     ],
     [
-        ["Glary Utilies","http://download.glarysoft.com/guportable.zip"],
+        ["Glary Utilies","https://download.glarysoft.com/guportable.zip"],
     ],
     [
-        ["Wise Cleaner","http://www.wisecleaner.com/download.html"],
+        ["Wise Cleaner","https://www.wisecleaner.com/download.html"],
     ],
     [
-        ["CCleaner","http://www.ccleaner.com/ccleaner/download/standard"],
+        ["CCleaner","https://www.ccleaner.com/ccleaner/download/standard"],
     ],
     [
-        ["Windows Defender Definitions","http://www.microsoft.com/en-us/wdsi/definitions"],
+        ["Windows Defender Definitions","https://www.microsoft.com/en-us/wdsi/definitions"],
     ],
     [
-        ["AV Comparatives Latest Tests","http://www.av-comparatives.org/latest-tests/"],
+        ["AV Comparatives Latest Tests","https://www.av-comparatives.org/latest-tests/"],
     ],
     [
-        ["AV Test","http://www.av-test.org/en/"],
+        ["AV Test","https://www.av-test.org/en/"],
     ],
     [
-        ["TronScript","http://www.reddit.com/r/TronScript/wiki/downloads"],
+        ["TronScript","https://www.reddit.com/r/TronScript/wiki/downloads"],
     ],
     [
-        ["O&O ShutUp10","http://www.oo-software.com/en/shutup10"],
+        ["O&O ShutUp10","https://www.oo-software.com/en/shutup10"],
     ],
     [
-        ["BleachBit","http://www.bleachbit.org/download/windows"]
+        ["BleachBit","https://www.bleachbit.org/download/windows"]
     ],
     [
-        ["Portapps","http://portapps.io/apps/"],
+        ["Portapps","https://portapps.io/apps/"],
     ],
     [
-        ["TCP Optimizer","http://www.speedguide.net/downloads.php"],
+        ["TCP Optimizer","https://www.speedguide.net/downloads.php"],
     ],
     [
-        ["CDKOffers","http://www.cdkoffers.com/"],
+        ["CDKOffers","https://www.cdkoffers.com/"],
     ],
     [
-        ["The House of Portable","http://thehouseofportable.com/?home=1"],
+        ["The House of Portable","https://thehouseofportable.com/?home=1"],
     ],
     [
         ["The Ultimate Windows Utility",""],
@@ -133,29 +133,29 @@ links: [
         ["News and Media","<heading>"],
     ],
     [
-        ["Spotify","http://open.spotify.com/"]
+        ["Spotify","https://open.spotify.com/"]
     ]
     [
-        ["Google","http://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en"],
+        ["Google","https://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en"],
     ]
     [
-        ["AllSides","http://www.allsides.com/unbiased-balanced-news"],
+        ["AllSides","https://www.allsides.com/unbiased-balanced-news"],
     ],
     [
         ["Sky Cable","https://www.mysky.com.ph/metromanila"],
-        ["Promos","http://www.mysky.com.ph/metromanila/promos"],
-        ["Service Advisories","http://www.mysky.com.ph/help-service-advisories"],
-        ["Advisory","http://skyadvisory.mysky.com.ph/"],
-        ["Support","http://www.mysky.com.ph/metromanila/contact-us/inquiries"],
+        ["Promos","https://www.mysky.com.ph/metromanila/promos"],
+        ["Service Advisories","https://www.mysky.com.ph/help-service-advisories"],
+        ["Advisory","https://skyadvisory.mysky.com.ph/"],
+        ["Support","https://www.mysky.com.ph/metromanila/contact-us/inquiries"],
     ],
     [
-        ["Casa Daza","http://www.youtube.com/results?search_query=casa+daza+metro.style&sp=CAISAhAB"],
+        ["Casa Daza","https://www.youtube.com/results?search_query=casa+daza+metro.style&sp=CAISAhAB"],
     ]
     [
         ["Productivity","<heading>"],
     ],
     [
-        ["NapChart","http://napchart.com/app"],
+        ["NapChart","https://napchart.com/app"],
     ],
 
 ]

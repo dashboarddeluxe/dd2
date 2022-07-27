@@ -9,72 +9,72 @@ featured: true
 weight: 35
 links: [
 [
-    ["Goodreads","http://www.goodreads.com/"],
-    ["Recommendations","http://www.goodreads.com/recommendations"],
+    ["Goodreads","https://www.goodreads.com/"],
+    ["Recommendations","https://www.goodreads.com/recommendations"],
 ],
 [
-    ["Calibre Portable","http://calibre-ebook.com/download_portable"],
-    ["What's New","http://calibre-ebook.com/whats-new"],
-    ["Releases","http://github.com/kovidgoyal/calibre/releases"],
+    ["Calibre Portable","https://calibre-ebook.com/download_portable"],
+    ["What's New","https://calibre-ebook.com/whats-new"],
+    ["Releases","https://github.com/kovidgoyal/calibre/releases"],
 ],
 [
-    ["Library Genesis","http://libgen.gs/"],
-    ["Proxies","http://libgen.onl/library-genesis/#Library_Genesis_Website_URLS"],
-    ["Alternate 1","http://libgen.is/"],
-    ["Alternate 2","http://gen.lib.rus.ec/"],
-    ["Alternate 3","http://libgen.pw/"],
+    ["Library Genesis","https://libgen.gs/"],
+    ["Proxies","https://libgen.onl/library-genesis/#Library_Genesis_Website_URLS"],
+    ["Alternate 1","https://libgen.is/"],
+    ["Alternate 2","https://gen.lib.rus.ec/"],
+    ["Alternate 3","https://libgen.pw/"],
 ],
 [
-    ["Z Library","http://b-ok.org/"],
-    ["Alternate 1","http://b-ok.asia/"],
-    ["Alternate 2","http://1lib.ph/"],
-    ["Alternate 3","http://au1lib.org/"]
+    ["Z Library","https://b-ok.org/"],
+    ["Alternate 1","https://b-ok.asia/"],
+    ["Alternate 2","https://1lib.ph/"],
+    ["Alternate 3","https://au1lib.org/"]
 ],
 [
-    ["Booksee","http://en.booksee.org/"],
+    ["Booksee","https://en.booksee.org/"],
 ],
 [
-    ["BookFI","http://en.bookfi.net/"],
+    ["BookFI","https://en.bookfi.net/"],
 ],
 [
-    ["Mobilism","http://mobilism.org/"],
+    ["Mobilism","https://mobilism.org/"],
 ],
 [
-    ["WOW eBook","http://wowebook.org"],
+    ["WOW eBook","https://wowebook.org"],
 ],
 [
-    ["OpenStax Textbooks","http://openstax.org/subjects/view-all"],
+    ["OpenStax Textbooks","https://openstax.org/subjects/view-all"],
 ],
 [
     ["Best Sellers","<heading>"],
 ],
 [
-    ["Amazon","http://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1"],
+    ["Amazon","https://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1"],
 ],
 [
     ["New York Times","<subheading>"],
-    ["Advice, How-To & Miscellaneous","http://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/"],
-    ["Business","http://www.nytimes.com/books/best-sellers/business-books/"]
+    ["Advice, How-To & Miscellaneous","https://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/"],
+    ["Business","https://www.nytimes.com/books/best-sellers/business-books/"]
 ],
 [
     ["Christian","<heading>"],
 ],
 [
-    ["StepBible","http://www.stepbible.org/"],
-    ["NASB with Vocabulary Transliteration","http://www.stepbible.org/?q=version=NASB|reference=John.1&options=HTVRLGUN"],
+    ["StepBible","https://www.stepbible.org/"],
+    ["NASB with Vocabulary Transliteration","https://www.stepbible.org/?q=version=NASB|reference=John.1&options=HTVRLGUN"],
 
 ],
 [
-    ["ChristianDL","http://www.christiandl.com/unread/"],
-    ["eBooks","http://www.christiandl.com/e-books/"],
+    ["ChristianDL","https://www.christiandl.com/unread/"],
+    ["eBooks","https://www.christiandl.com/e-books/"],
 ],
 [
-    ["MyBible","http://mybible.zone/index-eng.php"],
-    ["Bible Downloads","http://www.ph4.org/b4_index.php?k=bibles&amp;q=mybible"],
+    ["MyBible","https://mybible.zone/index-eng.php"],
+    ["Bible Downloads","https://www.ph4.org/b4_index.php?k=bibles&amp;q=mybible"],
 ],
 [
-    ["Zefania XML Bibles","http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/"],
-    ["Alternate","http://www.ph4.org/b4_mobi.php?q=zefania"],
+    ["Zefania XML Bibles","https://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/"],
+    ["Alternate","https://www.ph4.org/b4_mobi.php?q=zefania"],
 ],
 ]
 ---
