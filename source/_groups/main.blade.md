@@ -12,6 +12,7 @@ links: [
         ["Netvibes Dashboard","https://www.netvibes.com/dashboard"],
         ["Mobile Netvibes","https://mobile.netvibes.com"],
         ["Feedly","https://feedly.com"],
+        ["Inoreader","https://www.inoreader.com/"],
     ],
     [
         ["Gmail","https://gmail.com"],
