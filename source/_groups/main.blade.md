@@ -27,6 +27,7 @@ links: [
         ["Photos","https://photos.google.com"],
     ],
     [
+        ["Ecosia","https://www.ecosia.org/"],
         ["DuckDuckGo","https://duckduckgo.com/"],
         ["Yahoo!","https://yahoo.com"],
         ["Bing","https://bing.com"],
