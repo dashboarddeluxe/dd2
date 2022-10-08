@@ -92,12 +92,6 @@ links: [
         ["Glary Utilies","https://download.glarysoft.com/guportable.zip"],
     ],
     [
-        ["Wise Cleaner","https://www.wisecleaner.com/download.html"],
-    ],
-    [
-        ["CCleaner","https://www.ccleaner.com/ccleaner/download/standard"],
-    ],
-    [
         ["Windows Defender Definitions","https://www.microsoft.com/en-us/wdsi/definitions"],
     ],
     [
@@ -108,9 +102,6 @@ links: [
     ],
     [
         ["TronScript","https://www.reddit.com/r/TronScript/wiki/downloads"],
-    ],
-    [
-        ["O&O ShutUp10","https://www.oo-software.com/en/shutup10"],
     ],
     [
         ["BleachBit","https://www.bleachbit.org/download/windows"]
