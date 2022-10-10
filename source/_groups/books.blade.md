@@ -15,6 +15,7 @@ links: [
 [
     ["Amazon Hot New Releases","https://www.amazon.com/gp/new-releases/books"],
     ["Business & Money","https://www.amazon.com/gp/new-releases/books/3/"],
+    ["Self-Help","https://www.amazon.com/gp/new-releases/books/4736/"],
 ]
 [
     ["Calibre Portable","https://calibre-ebook.com/download_portable"],
