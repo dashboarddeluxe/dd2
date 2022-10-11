@@ -50,6 +50,9 @@ links: [
     ["HazardHunterPH","https://hazardhunter.georisk.gov.ph/"],
 ],
 [
+    ["NOAH - Nationwide Operational Assessment of Hazards","https://noah.up.edu.ph/"],
+],
+[
     ["DAM Information","https://bagong.pagasa.dost.gov.ph/flood#dam-information"],
 ],
 [
