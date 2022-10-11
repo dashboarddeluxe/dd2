@@ -13,11 +13,6 @@ links: [
     ["Recommendations","https://www.goodreads.com/recommendations"],
 ],
 [
-    ["Amazon Hot New Releases","https://www.amazon.com/gp/new-releases/books"],
-    ["Business & Money","https://www.amazon.com/gp/new-releases/books/3/"],
-    ["Self-Help","https://www.amazon.com/gp/new-releases/books/4736/"],
-]
-[
     ["Calibre Portable","https://calibre-ebook.com/download_portable"],
     ["What's New","https://calibre-ebook.com/whats-new"],
     ["Releases","https://github.com/kovidgoyal/calibre/releases"],
@@ -33,7 +28,6 @@ links: [
     ["Z Library","https://b-ok.org/"],
     ["Alternate 1","https://b-ok.asia/"],
     ["Alternate 2","https://1lib.ph/"],
-    ["Alternate 3","https://au1lib.org/"]
 ],
 [
     ["Booksee","https://en.booksee.org/"],
@@ -55,7 +49,10 @@ links: [
 ],
 [
     ["Amazon","https://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1"],
-],
+    ["Hot New Releases","https://www.amazon.com/gp/new-releases/books"],
+    ["Business & Money","https://www.amazon.com/gp/new-releases/books/3/"],
+    ["Self-Help","https://www.amazon.com/gp/new-releases/books/4736/"],
+]
 [
     ["New York Times","<subheading>"],
     ["Advice, How-To & Miscellaneous","https://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/"],
