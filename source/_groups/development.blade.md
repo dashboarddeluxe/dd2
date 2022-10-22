@@ -15,6 +15,7 @@ links: [
 ],
 [
     ["GlobalStats Statcounter","https://gs.statcounter.com/"],
+    ["w3techs CMS Usage","https://w3techs.com/technologies/history_overview/content_management/all"],
 ],
 [
     ["Namesilo","https://www.namesilo.com"],
