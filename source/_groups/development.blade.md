@@ -14,6 +14,9 @@ links: [
     ["DD2","https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdd2.netlify.app%2F"],
 ],
 [
+    ["GlobalStats Statcounter","https://gs.statcounter.com/"],
+],
+[
     ["Namesilo","https://www.namesilo.com"],
 ],
 [
