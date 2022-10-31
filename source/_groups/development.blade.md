@@ -129,10 +129,10 @@ links: [
 ]
 [
     ["GenerateWP","https://generatewp.com/"],
-]
+],
 [
     ["FreeWP","https://freewp.io/"],
-]
+],
 [
     ["Drupal", "<heading>"],
 ],
