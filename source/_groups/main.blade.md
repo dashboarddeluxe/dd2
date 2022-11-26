@@ -119,8 +119,8 @@ links: [
         ["The House of Portable","https://thehouseofportable.com/?home=1"],
     ],
     [
-        ["The Ultimate Windows Utility","https://github.com/ChrisTitusTech/winutil"],
-        ["iwr -useb https://christitus.com/win | iex",""],
+        ["CTT Windows Utility","https://github.com/ChrisTitusTech/winutil"],
+        ["irm christitus.com/win | iex",""],
     ],
     [
         ["News and Media","<heading>"],
