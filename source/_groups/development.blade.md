@@ -37,24 +37,27 @@ links: [
 ],
 [
     ["PHP","<heading>"],
-]
+],
+[
+    ["Clean Code PHP","https://github.com/jupeter/clean-code-php"],
+],
 [
     ["Laravel","https://laravel.com"],
     ["6 Docs","https://laravel.com/docs/6.x"],
     ["Top Packages","https://laravel.bepsvpt.me/"],
-]
+],
 [
     ["Voyager","https://voyager.devdojo.com/"],
     ["Releases","https://github.com/the-control-group/voyager/releases"],
     ["Docs","https://voyager-docs.devdojo.com/"],
-]
+],
 [
     ["CodeIgniter","https://www.codeigniter.com/"],
     ["Docs","https://www.codeigniter.com/user_guide/index.html#"],
 ],
 [
     ["Local","https://localwp.com/releases/"],
-]
+],
 [
     ["Backdrop CMS","https://backdropcms.org"],
     ["Roadmap","https://backdropcms.org/roadmap"],
@@ -64,15 +67,14 @@ links: [
     ["Releases","https://github.com/getgrav/grav/releases"],
 ],
 [
-    ["Clean Code PHP","https://github.com/jupeter/clean-code-php"],
     ["PHP Download","https://php-download.com/"],
 ],
 [
     ["Reference and Training","<heading>"],
-]
+],
 [
     ["Tutorialspoint","https://www.tutorialspoint.com/web_development_tutorials.htm"],
-]
+],
 [
     ["Programming Notes for Professionals","https://goalkicker.com/"],
 ],
