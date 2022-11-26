@@ -64,6 +64,7 @@ links: [
     ["Releases","https://github.com/getgrav/grav/releases"],
 ],
 [
+    ["Clean Code PHP","https://github.com/jupeter/clean-code-php"],
     ["PHP Download","https://php-download.com/"],
 ],
 [
