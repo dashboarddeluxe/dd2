@@ -22,7 +22,7 @@
                                             @else
                                                 <ul class="list-inside">
                                                 @if ($link[1] === '<subheading>')
-                                                    <span class="font-bold">{{ $link[0] }}</span>
+                                                    <li class="li1"><span class="font-bold">{{ $link[0] }}</span></li>
                                                 @else
                                                     <li class="li1"><a href="{!!  $link[1] !!}" target="_blank"
                                                         rel="noopener noreferrer" class="py-4 pr-6 sm:py-0 sm:pr-0">{{ $link[0] }}</a></li>
