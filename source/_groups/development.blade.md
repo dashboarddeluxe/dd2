@@ -185,7 +185,7 @@ links: [
 [
     ["Netlify","https://app.netlify.com"],
     ["Dashboard Deluxe 2","https://dd2.netlify.app"],
-    ["Dashboard Deluxe","https://dashboarddeluxe.netlify.app"],
+    ["Dashboard Deluxe","https://dashd.netlify.app"],
 ],
 [
     ["Github","https://github.com"],
