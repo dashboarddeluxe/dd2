@@ -18,7 +18,7 @@
                                     @foreach ($links as $link)
                                         @if ($loop->first)
                                             @if ($link[1] === '<heading>')
-                                                <div class="sm:text-xl font-bold xl:col-span-2 border-b-2 border-gray-400 pt-2">{{ $link[0] }}</div>
+                                                <div class="="text-xl sm:text-lg font-bold xl:col-span-2 border-b-2 border-gray-400 pt-2">{{ $link[0] }}</div>
                                             @else
                                                 <ul class="list-inside">
                                                 @if ($link[1] === '<subheading>')
@@ -30,7 +30,7 @@
                                             @endif
                                         @else
                                             @if ($link[1] === '')
-                                            <li class="li2 sm:text-xl">
+                                            <li class="li2 text-xl sm:text-lg">
                                             {{--
                                             <span class="inline sm:hidden">-&nbsp;</span>
                                             <span class="hidden sm:inline">|&nbsp;</span>
