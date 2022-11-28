@@ -25,7 +25,7 @@
                                                     <span class="font-bold">{{ $link[0] }}</span>
                                                 @else
                                                     <li class="li1"><a href="{!!  $link[1] !!}" target="_blank"
-                                                        rel="noopener noreferrer" class="py-2">{{ $link[0] }}</a></li>
+                                                        rel="noopener noreferrer" class="sm:py-4 sm:pr-4">{{ $link[0] }}</a></li>
                                                 @endif
                                             @endif
                                         @else
@@ -43,7 +43,7 @@
                                             <span class="hidden sm:inline">|&nbsp;</span>
                                             --}}
                                             <a href="{{ $link[1] }}"
-                                                    target="_blank" rel="noopener noreferrer" class="py-2">{{ $link[0] }}</a></li>
+                                                    target="_blank" rel="noopener noreferrer" class="sm:py-4 sm:pr-4">{{ $link[0] }}</a></li>
                                             @endif
                                         @endif
                                 @endforeach
