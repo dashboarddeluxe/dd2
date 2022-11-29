@@ -36,8 +36,11 @@ links: [
         ["Spurs","https://hoopshype.com/team/san-antonio-spurs/"],
     ],
     [
+        ["NBA Jersey History","https://basketballjerseyarchive.com/nba-jerseys/"],
+    ],    
+    [
         ["San Antonio Spurs","<heading>"],
-    ]
+    ],
     [
         ["Pounding the Rock","https://www.poundingtherock.com/"],
     ],
