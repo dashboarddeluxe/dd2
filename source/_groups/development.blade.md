@@ -227,19 +227,17 @@ links: [
 [
     ["Made with Tailwind","https://madewithtailwindcss.com/"],
 ],
-/*
-[
-    ["Pantheon","<heading>"],
-],
-[
-    ["Dashboard","https://dashboard.pantheon.io"],
-],
-[
-    ["Drupal","https://dev-www-drupal.pantheonsite.io/"],
-],
-[
-    ["Wordpress","https://dev-www-wordpress.pantheonsite.io/"],
-],
-*/
+# [
+#     ["Pantheon","<heading>"],
+# ],
+# [
+#     ["Dashboard","https://dashboard.pantheon.io"],
+# ],
+# [
+#     ["Drupal","https://dev-www-drupal.pantheonsite.io/"],
+# ],
+# [
+#     ["Wordpress","https://dev-www-wordpress.pantheonsite.io/"],
+# ],
 ]
 ---
