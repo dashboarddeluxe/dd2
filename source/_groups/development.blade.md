@@ -225,8 +225,9 @@ links: [
     ["Wicked Blocks","https://wickedblocks.dev/"],
 ],
 [
-    ["Built With Tailwind","https://builtwithtailwind.com/"],
+    ["Made with Tailwind","https://madewithtailwindcss.com/"],
 ],
+/*
 [
     ["Pantheon","<heading>"],
 ],
@@ -239,5 +240,6 @@ links: [
 [
     ["Wordpress","https://dev-www-wordpress.pantheonsite.io/"],
 ],
+*/
 ]
 ---
