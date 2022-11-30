@@ -71,9 +71,9 @@ links: [
 [
     ["DOH COVID-19 Tracker","https://doh.gov.ph/covid19tracker"],
 ],
-[
-    ["endcov.ph","https://endcov.ph/dashboard/"],
-],
+# [
+#     ["endcov.ph","https://endcov.ph/dashboard/"],
+# ],
 [
     ["COVID-19 Variants","https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/"],
 ],

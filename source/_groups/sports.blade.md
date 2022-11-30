@@ -39,7 +39,7 @@ links: [
         ["NBA Jersey History","https://basketballjerseyarchive.com/nba-jerseys/"],
         ["AEU Mall","https://shopee.ph/aeu_mall?page=0&sortBy=ctime"],
         ["Jersey 8888","https://shopee.ph/jersey8888?page=0&sortBy=ctime"],
-    ],    
+    ],
     [
         ["San Antonio Spurs","<heading>"],
     ],
@@ -50,7 +50,7 @@ links: [
         ["Air Alamo","https://airalamo.com/"],
     ],
     [
-        ["Spurs Nation","https://www.expressnews.com/sports/spurs/allspursnation/"],
+        ["Spurs Nation","https://www.expressnews.com/sports/spurs/"],
     ],
     [
         ["Best Defensive Rating","https://www.nba.com/stats/players/defense/?sort=DEF_RATING&dir=-1&Season=2022-23&SeasonType=Regular%20Season&Outcome=W&TeamID=1610612759&CF=MIN*GE*15"],

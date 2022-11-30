@@ -51,7 +51,7 @@ links: [
 ],
 [
     ["NNFX Algo Tester","https://nnfxalgotester.com/"],
-    ["Indicators","https://nnfxalgotester.com/help/c1-c2-volume-exit-cont-indicator/"],
+    ["Indicators","https://nnfxalgotester.com/help/included-indicators/"],
 ],
 # [
 #     ["SPFX Manual","https://nobodytrader.com/your-first-trading-account/"],
@@ -256,35 +256,35 @@ links: [
 [
     ["Kucoin","https://www.kucoin.com/account"]
 ],
-[
-    ["publish0x.com","https://www.publish0x.com/home"]
-],
-[
-    ["FreeMining.co","https://freemining.co/dashboard.php"]
-],
-[
-    ["MineZone.io","https://minezone.io/profile.php"]
-],
-[
-    ["Collect24.cloud","https://collect24.cloud/profile.php"]
-],
-[
-    ["HitMine.io","https://hitmine.io/member/dashboard"]
-],
-[
-    ["HitMine.io","https://hitmine.io/member/dashboard"]
-],
-[
-    ["MultiMining.website","https://multimining.website/member/dashboard"]
-],
-[
-    ["BitLand.pro","https://bitland.pro/cabinet"]
-],
-[
-    ["StormGain","https://app.stormgain.com"]
-],
-[
-    ["mineex.biz","https://mineex.biz/"],
-],
+# [
+#     ["publish0x.com","https://www.publish0x.com/home"]
+# ],
+# [
+#     ["FreeMining.co","https://freemining.co/dashboard.php"]
+# ],
+# [
+#     ["MineZone.io","https://minezone.io/profile.php"]
+# ],
+# [
+#     ["Collect24.cloud","https://collect24.cloud/profile.php"]
+# ],
+# [
+#     ["HitMine.io","https://hitmine.io/member/dashboard"]
+# ],
+# [
+#     ["HitMine.io","https://hitmine.io/member/dashboard"]
+# ],
+# [
+#     ["MultiMining.website","https://multimining.website/member/dashboard"]
+# ],
+# [
+#     ["BitLand.pro","https://bitland.pro/cabinet"]
+# ],
+# [
+#     ["StormGain","https://app.stormgain.com"]
+# ],
+# [
+#     ["mineex.biz","https://mineex.biz/"],
+# ],
 ]
 ---

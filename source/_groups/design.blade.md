@@ -84,7 +84,7 @@ links: [
   ["Patterncooler","https://patterncooler.com/"],
 ],
 [
-  ["Striped Backgrounds","https://stripedbgs.com/"],
+  ["Striped Backgrounds","http://stripedbgs.com/"],
 ],
 [
   ["Material Design Background Generator","https://stringsistemas.com/materialgenerator.html"],
@@ -93,10 +93,10 @@ links: [
   ["Hero Patterns","https://heropatterns.com/"],
 ],
 [
-  ["Flaticon Patterns","https://pattern.flaticon.com/"],
+  ["Flaticon Patterns","http://pattern.flaticon.com/"],
 ],
 [
-  ["The Pattern Library","https://thepatternlibrary.com/"],
+  ["The Pattern Library","http://thepatternlibrary.com/"],
 ],
 [
   ["Subtle Patterns","https://www.toptal.com/designers/subtlepatterns/"],
