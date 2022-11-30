@@ -37,6 +37,8 @@ links: [
     ],
     [
         ["NBA Jersey History","https://basketballjerseyarchive.com/nba-jerseys/"],
+        ["AEU Mall","https://shopee.ph/aeu_mall?page=0&sortBy=ctime"],
+        ["Jersey 8888","https://shopee.ph/jersey8888?page=0&sortBy=ctime"],
     ],    
     [
         ["San Antonio Spurs","<heading>"],
