@@ -36,6 +36,7 @@ links: [
     ["FB Sharing Debugger","https://developers.facebook.com/tools/debug/"],
 ],
 [
+    ["Dr Link Checker","https://www.drlinkcheck.com/"],
     ["Dead Link Checker","https://www.deadlinkchecker.com/"],
 ],
 [
