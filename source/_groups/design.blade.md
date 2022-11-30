@@ -86,9 +86,9 @@ links: [
 [
   ["Striped Backgrounds","http://stripedbgs.com/"],
 ],
-[
-  ["Material Design Background Generator","https://stringsistemas.com/materialgenerator.html"],
-],
+# [
+#   ["Material Design Background Generator","https://stringsistemas.com/materialgenerator.html"],
+# ],
 [
   ["Hero Patterns","https://heropatterns.com/"],
 ],

@@ -106,7 +106,7 @@ links: [
     ["XAMPP","https://www.apachefriends.org/download.html"],
 ],
 [
-    ["Laragon","https://www.laragon.org/"],
+    ["Laragon","https://laragon.org/"],
     ["Releases","https://github.com/leokhoa/laragon/releases"],
 ],
 [
