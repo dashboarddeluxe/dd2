@@ -71,7 +71,7 @@ links: [
     ["eBooks","https://www.christiandl.com/e-books/"],
 ],
 [
-    ["MyBible","https://mybible.zone/index-eng.php"],
+    ["MyBible","https://mybible.zone/en/"],
     ["Bible Downloads","https://www.ph4.org/b4_index.php?k=bibles&amp;q=mybible"],
 ],
 [

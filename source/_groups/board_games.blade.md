@@ -103,7 +103,7 @@ links: [
         ["Most Recent","https://steamcommunity.com/workshop/browse/?appid=286160&browsesort=mostrecent&section=readytouseitems"],
     ],
     [
-        ["Steam Workshop Download","https://steamworkshop.download"],
+        ["Steam Workshop Download","http://steamworkshop.download"],
     ],
     [
         ["Tray Template","https://templatemaker.nl/index.php?template=matchbox&amp;source=dielines&amp;lang=en"],

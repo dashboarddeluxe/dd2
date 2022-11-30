@@ -137,7 +137,7 @@ links: [
     ["GenerateWP","https://generatewp.com/"],
 ],
 [
-    ["FreeWP","https://freewp.io/"],
+    ["FreeWP","http://freewp.io/"],
 ],
 [
     ["Drupal", "<heading>"],
