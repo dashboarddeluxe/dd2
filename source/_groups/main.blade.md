@@ -126,8 +126,11 @@ links: [
         ["News and Media","<heading>"],
     ],
     [
+        ["SmartTubeNext","https://github.com/yuliskov/SmartTubeNext"]
+    ],
+    [
         ["Spotify","https://open.spotify.com/"]
-    ]
+    ],
     [
         ["Google","https://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en"],
     ]
