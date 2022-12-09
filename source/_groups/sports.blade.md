@@ -37,6 +37,7 @@ links: [
     ],
     [
         ["NBA Jersey History","https://basketballjerseyarchive.com/nba-jerseys/"],
+        ["NBA Logos","https://www.sportslogos.net/teams/list_by_league/6/National_Basketball_Association/NBA/logos/"],
         ["AEU Mall","https://shopee.ph/aeu_mall?page=0&sortBy=ctime"],
         ["Jersey 8888","https://shopee.ph/jersey8888?page=0&sortBy=ctime"],
     ],
