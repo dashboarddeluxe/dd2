@@ -111,6 +111,11 @@ links: [
   ["Fonts","<heading>"],
 ],
 [
+    ["Google Fonts","https://fonts.google.com/"],
+    ["8+ Styles","https://fonts.google.com/?sort=popularity&stylecount=8"],
+    ["Variable","https://fonts.google.com/?sort=popularity&vfonly=true"],
+],
+[
     ["Font Identifier","https://fontsquirrel.com/matcherator"],
 ],
 [
