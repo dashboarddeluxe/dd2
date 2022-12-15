@@ -126,6 +126,18 @@ links: [
     ["1001 Fonts","https://1001fonts.com"],
 ],
 [
+    ["Fonts in the Wild","https://www.fontsinthewild.com/"],
+],
+[
+    ["Fonts in Use","https://fontsinuse.com/"],
+],
+[
+    ["Typewolf","https://www.typewolf.com/"],
+],
+[
+    ["You Work for Them - Fonts","https://www.youworkforthem.com/fonts"],
+],
+[
     ["Weekly Fonts","https://www.weeklyfonts.com/"],
 ],
 [
