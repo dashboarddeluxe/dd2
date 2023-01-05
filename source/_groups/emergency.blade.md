@@ -11,9 +11,9 @@ links: [
 [
     ["Weather","<heading>"],
 ]
-[
-    ["Dark Sky","https://darksky.net/forecast/14.5869,121.0604/si12/en"],
-],
+#[
+#    ["Dark Sky","https://darksky.net/forecast/14.5869,121.0604/si12/en"],
+#],
 [
     ["Accuweather","https://www.accuweather.com/en/ph/pasig/264876/hourly-weather-forecast/264876"],
 ],
