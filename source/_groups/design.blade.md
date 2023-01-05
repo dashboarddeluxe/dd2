@@ -69,6 +69,9 @@ links: [
   ["Heroicons","https://heroicons.com/"],
 ],
 [
+  ["Logo Ipsum","https://logoipsum.com/"],
+],
+[
   ["Patterns","<heading>"],
 ],
 [
