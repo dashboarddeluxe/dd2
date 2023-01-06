@@ -67,7 +67,7 @@
                 {{--
                 <div class="mb-2"><img class="h-8 mx-auto" src="/img/logo.png" alt="{{ $page->siteName }} logo" /></div>
                 --}}
-                    <div>&copy; Dashboard Deluxe 2, {{ date('Y') }}</div>
+                    <div>&copy; Dashboard Deluxe, {{ date('Y') }}</div>
                 </li>
                 {{--
                 <li class="md:mr-2">

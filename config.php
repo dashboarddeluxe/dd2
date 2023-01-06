@@ -16,7 +16,7 @@ return [
             'path' => 'groups/{filename}',
         ],
         'posts' => [
-            'author' => 'Dashboard Deluxe 2', // Default author, if not provided in a post
+            'author' => 'Dashboard Deluxe', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
