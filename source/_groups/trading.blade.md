@@ -65,176 +65,176 @@ links: [
 [
     ["Philippine Association of Forex Traders Inc. (PAFTI)","https://www.pafti.ph/"],
 ],
-[
-    ["Forex News Avoidance","<heading>"],
-],
-[
-    ["USD","<subheading>"],
-    ["CPI m/m - Consumer Price Index",""],
-],
-[
-    ["USD","<subheading>"],
-    ["Fed Chair Speaks - Powell",""],
-],
-[
-    ["USD","<subheading>"],
-    ["FOMC Statement - Interest Rate Statement",""],
-],
-[
-    ["USD","<subheading>"],
-    ["Non-Farm Employment Change - Non-Farm Payrolls, NFP",""],
-],
-[
-    ["EUR","<subheading>"],
-    ["ECB Press Conference - ECB President Speaks - Lagarde",""],
-],
-[
-    ["EUR","<subheading>"],
-    ["Main Refinancing Rate - Interest Rates, Repo Rate, Minimum Bid Rate",""],
-],
-[
-    ["GBP","<subheading>"],
-    ["GDP m/m - Gross Domestic Product",""],
-],
-[
-    ["GBP","<subheading>"],
-    ["Official Bank Rate - Interest Rates, MPC Official Bank Rate Votes",""],
-],
-[
-    ["CAD","<subheading>"],
-    ["BOC Rate Statement - Interest Rate Statement",""],
-],
-[
-    ["CAD","<subheading>"],
-    ["Core Retail Sales m/m",""],
-],
-[
-    ["CAD","<subheading>"],
-    ["CPI m/m - Consumer Price Index",""],
-],
-[
-    ["CAD","<subheading>"],
-    ["Employment Change - Unemployment Rate",""],
-],
-[
-    ["AUD","<subheading>"],
-    ["RBA Rate Statement - Interest Rate",""],
-],
-[
-    ["AUD","<subheading>"],
-    ["Employment Change - Unemployment Rate",""],
-],
-[
-    ["NZD","<subheading>"],
-    ["Employment Change q/q - Unemployment Rate",""],
-],
-[
-    ["NZD","<subheading>"],
-    ["GDP q/q - Gross Domestic Product",""],
-],
-[
-    ["NZD","<subheading>"],
-    ["GDT Price Index - GlobalDairyTrade (*)","https://www.globaldairytrade.info/en/gdt-events/calendar/"],
-],
-[
-    ["NZD","<subheading>"],
-    ["RBNZ Rate Statement - Policy Assessment, Interest Rate Statement",""],
-],
-[
-    ["JPY","<subheading>"],
-    ["Monetary Policy Statement - Interest Rate Statement",""],
-],
-[
-    ["CHF","<subheading>"],
-    ["SNB Monetary Policy Assessment - Interest Rate Statement",""],
-],
-[
-    ["Forex Sentiment - MyFXBook","<heading>"],
-],
-[
-    ["AUDCAD","https://www.myfxbook.com/community/outlook/AUDCAD"],
-],
-[
-    ["AUDCHF","https://www.myfxbook.com/community/outlook/AUDCHF"],
-],
-[
-    ["AUDJPY","https://www.myfxbook.com/community/outlook/AUDJPY"],
-],
-[
-    ["AUDNZD","https://www.myfxbook.com/community/outlook/AUDNZD"],
-],
-[
-    ["AUDUSD","https://www.myfxbook.com/community/outlook/AUDUSD"],
-],
-[
-    ["CADCHF","https://www.myfxbook.com/community/outlook/CADCHF"],
-],
-[
-    ["CADJPY","https://www.myfxbook.com/community/outlook/CADJPY"],
-],
-[
-    ["CHFJPY","https://www.myfxbook.com/community/outlook/CHFJPY"],
-],
-[
-    ["EURAUD","https://www.myfxbook.com/community/outlook/EURAUD"],
-],
-[
-    ["EURCAD","https://www.myfxbook.com/community/outlook/EURCAD"],
-],
-[
-    ["EURCHF","https://www.myfxbook.com/community/outlook/EURCHF"],
-],
-[
-    ["EURGBP","https://www.myfxbook.com/community/outlook/EURGBP"],
-],
-[
-    ["EURJPY","https://www.myfxbook.com/community/outlook/EURJPY"],
-],
-[
-    ["EURNZD","https://www.myfxbook.com/community/outlook/EURNZD"],
-],
-[
-    ["EURUSD","https://www.myfxbook.com/community/outlook/EURUSD"],
-],
-[
-    ["GBPAUD","https://www.myfxbook.com/community/outlook/GBPAUD"],
-],
-[
-    ["GBPCAD","https://www.myfxbook.com/community/outlook/GBPCAD"],
-],
-[
-    ["GBPCHF","https://www.myfxbook.com/community/outlook/GBPCHF"],
-],
-[
-    ["GBPJPY","https://www.myfxbook.com/community/outlook/GBPJPY"],
-],
-[
-    ["GBPNZD","https://www.myfxbook.com/community/outlook/GBPNZD"],
-],
-[
-    ["GBPUSD","https://www.myfxbook.com/community/outlook/GBPUSD"],
-],
-[
-    ["NZDCAD","https://www.myfxbook.com/community/outlook/NZDCAD"],
-],
-[
-    ["NZDCHF","https://www.myfxbook.com/community/outlook/NZDCHF"],
-],
-[
-    ["NZDJPY","https://www.myfxbook.com/community/outlook/NZDJPY"],
-],
-[
-    ["NZDUSD","https://www.myfxbook.com/community/outlook/NZDUSD"],
-],
-[
-    ["USDCAD","https://www.myfxbook.com/community/outlook/USDCAD"],
-],
-[
-    ["USDCHF","https://www.myfxbook.com/community/outlook/USDCHF"],
-],
-[
-    ["USDJPY","https://www.myfxbook.com/community/outlook/USDJPY"],
-],
+# [
+#     ["Forex News Avoidance","<heading>"],
+# ],
+# [
+#     ["USD","<subheading>"],
+#     ["CPI m/m - Consumer Price Index",""],
+# ],
+# [
+#     ["USD","<subheading>"],
+#     ["Fed Chair Speaks - Powell",""],
+# ],
+# [
+#     ["USD","<subheading>"],
+#     ["FOMC Statement - Interest Rate Statement",""],
+# ],
+# [
+#     ["USD","<subheading>"],
+#     ["Non-Farm Employment Change - Non-Farm Payrolls, NFP",""],
+# ],
+# [
+#     ["EUR","<subheading>"],
+#     ["ECB Press Conference - ECB President Speaks - Lagarde",""],
+# ],
+# [
+#     ["EUR","<subheading>"],
+#     ["Main Refinancing Rate - Interest Rates, Repo Rate, Minimum Bid Rate",""],
+# ],
+# [
+#     ["GBP","<subheading>"],
+#     ["GDP m/m - Gross Domestic Product",""],
+# ],
+# [
+#     ["GBP","<subheading>"],
+#     ["Official Bank Rate - Interest Rates, MPC Official Bank Rate Votes",""],
+# ],
+# [
+#     ["CAD","<subheading>"],
+#     ["BOC Rate Statement - Interest Rate Statement",""],
+# ],
+# [
+#     ["CAD","<subheading>"],
+#     ["Core Retail Sales m/m",""],
+# ],
+# [
+#     ["CAD","<subheading>"],
+#     ["CPI m/m - Consumer Price Index",""],
+# ],
+# [
+#     ["CAD","<subheading>"],
+#     ["Employment Change - Unemployment Rate",""],
+# ],
+# [
+#     ["AUD","<subheading>"],
+#     ["RBA Rate Statement - Interest Rate",""],
+# ],
+# [
+#     ["AUD","<subheading>"],
+#     ["Employment Change - Unemployment Rate",""],
+# ],
+# [
+#     ["NZD","<subheading>"],
+#     ["Employment Change q/q - Unemployment Rate",""],
+# ],
+# [
+#     ["NZD","<subheading>"],
+#     ["GDP q/q - Gross Domestic Product",""],
+# ],
+# [
+#     ["NZD","<subheading>"],
+#     ["GDT Price Index - GlobalDairyTrade (*)","https://www.globaldairytrade.info/en/gdt-events/calendar/"],
+# ],
+# [
+#     ["NZD","<subheading>"],
+#     ["RBNZ Rate Statement - Policy Assessment, Interest Rate Statement",""],
+# ],
+# [
+#     ["JPY","<subheading>"],
+#     ["Monetary Policy Statement - Interest Rate Statement",""],
+# ],
+# [
+#     ["CHF","<subheading>"],
+#     ["SNB Monetary Policy Assessment - Interest Rate Statement",""],
+# ],
+# [
+#     ["Forex Sentiment - MyFXBook","<heading>"],
+# ],
+# [
+#     ["AUDCAD","https://www.myfxbook.com/community/outlook/AUDCAD"],
+# ],
+# [
+#     ["AUDCHF","https://www.myfxbook.com/community/outlook/AUDCHF"],
+# ],
+# [
+#     ["AUDJPY","https://www.myfxbook.com/community/outlook/AUDJPY"],
+# ],
+# [
+#     ["AUDNZD","https://www.myfxbook.com/community/outlook/AUDNZD"],
+# ],
+# [
+#     ["AUDUSD","https://www.myfxbook.com/community/outlook/AUDUSD"],
+# ],
+# [
+#     ["CADCHF","https://www.myfxbook.com/community/outlook/CADCHF"],
+# ],
+# [
+#     ["CADJPY","https://www.myfxbook.com/community/outlook/CADJPY"],
+# ],
+# [
+#     ["CHFJPY","https://www.myfxbook.com/community/outlook/CHFJPY"],
+# ],
+# [
+#     ["EURAUD","https://www.myfxbook.com/community/outlook/EURAUD"],
+# ],
+# [
+#     ["EURCAD","https://www.myfxbook.com/community/outlook/EURCAD"],
+# ],
+# [
+#     ["EURCHF","https://www.myfxbook.com/community/outlook/EURCHF"],
+# ],
+# [
+#     ["EURGBP","https://www.myfxbook.com/community/outlook/EURGBP"],
+# ],
+# [
+#     ["EURJPY","https://www.myfxbook.com/community/outlook/EURJPY"],
+# ],
+# [
+#     ["EURNZD","https://www.myfxbook.com/community/outlook/EURNZD"],
+# ],
+# [
+#     ["EURUSD","https://www.myfxbook.com/community/outlook/EURUSD"],
+# ],
+# [
+#     ["GBPAUD","https://www.myfxbook.com/community/outlook/GBPAUD"],
+# ],
+# [
+#     ["GBPCAD","https://www.myfxbook.com/community/outlook/GBPCAD"],
+# ],
+# [
+#     ["GBPCHF","https://www.myfxbook.com/community/outlook/GBPCHF"],
+# ],
+# [
+#     ["GBPJPY","https://www.myfxbook.com/community/outlook/GBPJPY"],
+# ],
+# [
+#     ["GBPNZD","https://www.myfxbook.com/community/outlook/GBPNZD"],
+# ],
+# [
+#     ["GBPUSD","https://www.myfxbook.com/community/outlook/GBPUSD"],
+# ],
+# [
+#     ["NZDCAD","https://www.myfxbook.com/community/outlook/NZDCAD"],
+# ],
+# [
+#     ["NZDCHF","https://www.myfxbook.com/community/outlook/NZDCHF"],
+# ],
+# [
+#     ["NZDJPY","https://www.myfxbook.com/community/outlook/NZDJPY"],
+# ],
+# [
+#     ["NZDUSD","https://www.myfxbook.com/community/outlook/NZDUSD"],
+# ],
+# [
+#     ["USDCAD","https://www.myfxbook.com/community/outlook/USDCAD"],
+# ],
+# [
+#     ["USDCHF","https://www.myfxbook.com/community/outlook/USDCHF"],
+# ],
+# [
+#     ["USDJPY","https://www.myfxbook.com/community/outlook/USDJPY"],
+# ],
 [
     ["Cryptocurrency","<heading>"],
 ],

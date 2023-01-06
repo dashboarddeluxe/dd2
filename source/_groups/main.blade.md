@@ -91,21 +91,21 @@ links: [
     [
         ["Glary Utilies","https://download.glarysoft.com/guportable.zip"],
     ],
-    [
-        ["Windows Defender Definitions","https://www.microsoft.com/en-us/wdsi/definitions"],
-    ],
-    [
-        ["AV Comparatives Latest Tests","https://www.av-comparatives.org/latest-tests/"],
-    ],
-    [
-        ["AV Test","https://www.av-test.org/en/"],
-    ],
+#     [
+#         ["Windows Defender Definitions","https://www.microsoft.com/en-us/wdsi/definitions"],
+#     ],
+#     [
+#         ["AV Comparatives Latest Tests","https://www.av-comparatives.org/latest-tests/"],
+#     ],
+#     [
+#         ["AV Test","https://www.av-test.org/en/"],
+#     ],
     [
         ["TronScript","https://www.reddit.com/r/TronScript/wiki/downloads"],
     ],
-    [
-        ["BleachBit","https://www.bleachbit.org/download/windows"]
-    ],
+#     [
+#         ["BleachBit","https://www.bleachbit.org/download/windows"]
+#     ],
     [
         ["Portapps","https://portapps.io/apps/"],
     ],

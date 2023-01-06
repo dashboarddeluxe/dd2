@@ -70,6 +70,7 @@ links: [
     ]
     [
         ["Dice Tower","https://dicetower.com"],
+        ["Top Countdowns","https://www.youtube.com/@thedicetower/search?query=top"]
         ["Week in Review","https://www.youtube.com/playlist?list=PLOlRvTbmD6tLXrBugjAV1nlFMW5Z4OzJy"],
         ["Latest Review Videos","https://dicetower.com/board-game-videos?field_category_tid=5"],
         ["News","https://dicetowernews.com"],

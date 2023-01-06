@@ -26,6 +26,7 @@ links: [
 ],
 [
     ["Z Library","https://b-ok.org/"],
+    ["Single Sign In", "https://singlelogin.me/"],
     ["Alternate 1","https://b-ok.asia/"],
     ["Alternate 2","https://1lib.ph/"],
 ],

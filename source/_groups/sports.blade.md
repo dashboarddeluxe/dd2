@@ -16,7 +16,7 @@ links: [
         ["Spurs","https://www.espn.com/nba/team/_/name/sa/san-antonio-spurs"],
     ],
     [
-        ["NBA Top Plays of the Night","https://www.youtube.com/c/NBA/search?query=NBA+Top+10+Plays+Of+The+Night"],
+        ["NBA Top Plays","https://www.youtube.com/@NBA/search?query=NBA%20Top%20Plays"],
     ],
     [
         ["Yahoo! Sports","https://sports.yahoo.com/"],
@@ -36,7 +36,7 @@ links: [
         ["Spurs","https://hoopshype.com/team/san-antonio-spurs/"],
     ],
     [
-        ["NBA Jersey History","https://basketballjerseyarchive.com/nba-jerseys/"],
+        ["Basketball Jersey Archive","https://basketballjerseyarchive.com/"],
         ["NBA Logos","https://www.sportslogos.net/teams/list_by_league/6/National_Basketball_Association/NBA/logos/"],
         ["AEU Mall","https://shopee.ph/aeu_mall?page=0&sortBy=ctime"],
         ["Jersey 8888","https://shopee.ph/jersey8888?page=0&sortBy=ctime"],
@@ -65,27 +65,27 @@ links: [
     [
         ["Plus Minus Lineup","https://www.nba.com/stats/lineups/traditional/?sort=PLUS_MINUS&dir=1&Season=2022-23&SeasonType=Regular%20Season&PerMode=Totals&TeamID=1610612759"]
     ],
-    [
-        ["NBA Fantasy","<heading>"],
-    ],
-    [
-        ["Y! NBA Fantasy","https://sports.yahoo.com/dailyfantasy"],
-        ["Upcoming","https://sports.yahoo.com/dailyfantasy/contests/upcoming"],
-        ["Live","https://sports.yahoo.com/dailyfantasy/contests/live"],
-        ["Create Contest","https://sports.yahoo.com/dailyfantasy/contest/create"],
-        ["Live Score","https://sports.yahoo.com/dailyfantasy/research/live"],
-    ],
-    [
-        ["Linestar Y! Fantasy NBA","https://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo"],
-        ["Live Score","https://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo"],
-        ["Perfect Lineup","https://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo"],
-    ],
-    [
-        ["DailyFantasyNerd Optimizer","https://dailyfantasynerd.com/optimizer/yahoo/nba"],
-    ],
-    [
-        ["Lineup Lab NBA Lineup Organizer","https://www.lineuplab.com/nba-lineup-optimizer"],
-    ],
+#     [
+#         ["NBA Fantasy","<heading>"],
+#     ],
+#     [
+#         ["Y! NBA Fantasy","https://sports.yahoo.com/dailyfantasy"],
+#         ["Upcoming","https://sports.yahoo.com/dailyfantasy/contests/upcoming"],
+#         ["Live","https://sports.yahoo.com/dailyfantasy/contests/live"],
+#         ["Create Contest","https://sports.yahoo.com/dailyfantasy/contest/create"],
+#         ["Live Score","https://sports.yahoo.com/dailyfantasy/research/live"],
+#     ],
+#     [
+#         ["Linestar Y! Fantasy NBA","https://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo"],
+#         ["Live Score","https://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo"],
+#         ["Perfect Lineup","https://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo"],
+#     ],
+#     [
+#         ["DailyFantasyNerd Optimizer","https://dailyfantasynerd.com/optimizer/yahoo/nba"],
+#     ],
+#     [
+#         ["Lineup Lab NBA Lineup Organizer","https://www.lineuplab.com/nba-lineup-optimizer"],
+#     ],
     [
         ["Australian Sports","<heading>"],
     ],
