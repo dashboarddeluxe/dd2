@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   display_url: https://dd2.netlify.app
   media_folder: "source/img"
+  media_library: "source/img"
   public_folder: "img"
 
 collections:
