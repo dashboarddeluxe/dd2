@@ -16,6 +16,7 @@ links: [
 #],
 [
     ["Accuweather","https://www.accuweather.com/en/ph/pasig/264876/hourly-weather-forecast/264876"],
+    ["Minutecast","https://www.accuweather.com/en/ph/pasig/264876/minute-weather-forecast/264876"],
 ],
 [
     ["Weather.com","https://weather.com/en-PH/weather/hourbyhour/l/c3784b13635e8dc4653bad5703d3c7590317cc43475d6bbbd94809d9e30ec8fe"],
