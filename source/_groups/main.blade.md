@@ -48,7 +48,6 @@ links: [
         ["History","https://www.youtube.com/feed/history"],
         ["Studio","https://studio.youtube.com/"],
     ],
-
     [
         ["WhatsApp","https://web.whatsapp.com/"],
         ["Telegram","https://web.telegram.org/"],
@@ -58,7 +57,11 @@ links: [
         ["Preset","https://www.worldtimebuddy.com/?pl=1&lid=1701668,5192726,5308655&hf=0"],
     ]
     [
+        ["Speed Test","https://www.speedtest.net/"],
+        ["Cloudflare","https://speed.cloudflare.com/"],
+        ["ipFail Continuous","https://webtools.ipfail.org/internet-speed-test/"],
         ["Open Speed Test","https://openspeedtest.com/"],
+        ["Fast.com","https://fast.com/"],
     ]
     [
         ["E-Commerce","<heading>"],
