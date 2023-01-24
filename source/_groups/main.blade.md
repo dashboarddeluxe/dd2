@@ -25,6 +25,7 @@ links: [
         ["Calendar","https://calendar.google.com"],
         ["Drive","https://drive.google.com"],
         ["Photos","https://photos.google.com"],
+        ["Messages","https://messages.google.com/web"],
     ],
     [
         ["Ecosia","https://www.ecosia.org/"],
