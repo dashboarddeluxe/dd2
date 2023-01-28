@@ -141,6 +141,10 @@ links: [
     ["FreeWP","http://freewp.io/"],
 ],
 [
+    ["PRO Elements","https://proelements.org/"],
+    ["Releases","https://github.com/proelements/proelements/releases"],
+],
+[
     ["Drupal", "<heading>"],
 ],
 [
