@@ -131,6 +131,10 @@ links: [
     ["Full Site Editing","https://wordpress.org/themes/tags/full-site-editing/"],
 ],
 [
+    ["GPL Developer","https://gpldeveloper.com/"],
+    ["Recent","https://gpldeveloper.com/recently-updated/"],
+],
+[
     ["WP Hive","https://wphive.com/"],
     ["Gutenberg","https://wphive.com/plugin-search/?category=gutenberg&search=&sortby=active-installs-desc"],
 ],
