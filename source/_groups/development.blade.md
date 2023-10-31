@@ -60,9 +60,6 @@ links: [
     ["Docs","https://www.codeigniter.com/user_guide/index.html#"],
 ],
 [
-    ["Local","https://localwp.com/releases/"],
-],
-[
     ["Backdrop CMS","https://backdropcms.org"],
     ["Roadmap","https://backdropcms.org/roadmap"],
 ],
@@ -102,6 +99,9 @@ links: [
 ],
 [
     ["Servers","<heading>"],
+],
+[
+    ["Local","https://localwp.com/releases/"],
 ],
 [
     ["XAMPP","https://www.apachefriends.org/download.html"],
