@@ -82,6 +82,9 @@ links: [
     ],
     [
         ["World Balance","https://www.worldbalance.com.ph/"],
+        ["Men's Shoes","https://worldbalance.com.ph/collections/all-shoes-m?sort_by=created-descending"],
+        ["Women's Shoes","https://worldbalance.com.ph/collections/all-shoes-l?sort_by=created-descending"],
+        ["Trail Shoes","https://worldbalance.com.ph/collections/trail?sort_by=created-descending"],
     ],
     [
         ["Cole Vintage","https://colevintage.com/"],
