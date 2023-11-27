@@ -71,11 +71,11 @@ links: [
         ["E-Commerce","<heading>"],
     ],
     [
-        ["Lazada","https://lazada.com.ph/"],
-    ],
-    [
         ["Shopee","https://shopee.ph/"],
         ["My Purchases","https://shopee.ph/user/purchase"],
+    ],
+    [
+        ["Lazada","https://lazada.com.ph/"],
     ],
     [
         ["Apparel","<heading>"],
