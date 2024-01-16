@@ -104,6 +104,7 @@ links: [
         ["Most Recent","https://steamcommunity.com/workshop/browse/?appid=286160&browsesort=mostrecent&section=readytouseitems"],
     ],
     [
+        ["steamworkshopdownloader.io","https://steamworkshopdownloader.io/"],
         ["Steam Workshop Download","http://steamworkshop.download"],
     ],
     [
