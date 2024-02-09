@@ -16,6 +16,12 @@ links: [
         ["Spurs","https://www.espn.com/nba/team/_/name/sa/san-antonio-spurs"],
     ],
     [
+        ["NBA Stats","https://www.nba.com/stats"],
+        ["Player Impact Estimate","https://www.nba.com/stats/players/advanced?CF=GP_RANK*LE*300:MIN_RANK*LE*300&PerMode=PerGame&Season=2023-24&SeasonType=Regular%20Season&dir=A&sort=PIE"],
+        ["Net Rating","https://www.nba.com/stats/players/advanced?CF=GP_RANK*LE*300:MIN_RANK*LE*300&PerMode=PerGame&Season=2023-24&SeasonType=Regular%20Season&dir=A&sort=NET_RATING"],
+        ["Fantasy Points","https://www.nba.com/stats/players/traditional?CF=GP_RANK*LE*300:MIN_RANK*LE*300&dir=A&sort=NBA_FANTASY_PTS"],
+    ],
+    [
         ["NBA Top Plays","https://www.youtube.com/@NBA/search?query=NBA%20Top%20Plays"],
     ],
     [
