@@ -1,23 +1,26 @@
 {
-    "private": true,
+    "name": "dashboard-deluxe-3",
+    "description": "Dashboard Deluxe 3",
+    "version": "3.0.0",
+    "license": "MIT",
+    "author": "Dashboard Deluxe",
+    "keywords": [
+        "hugo",
+        "tailwindcss",
+        "tailwindcss-v4"
+    ],
     "scripts": {
-        "dev": "mix",
-        "watch": "mix watch",
-        "staging": "NODE_ENV=staging mix",
-        "prod": "mix --production"
+        "dev": "hugo server --cleanDestinationDir",
+        "build": "hugo --gc --minify --cleanDestinationDir",
+        "watch": "hugo server --disableFastRender --navigateToChanged --cleanDestinationDir"
     },
-    "devDependencies": {
-        "axios": "^0.21.1",
-        "fuse.js": "^6.4.6",
-        "highlight.js": "^10.7.3",
-        "laravel-mix": "^6.0.24",
-        "laravel-mix-jigsaw": "^1.5.0",
-        "postcss": "^8.3.5",
-        "sass": "^1.35.1",
-        "sass-loader": "^10.2.0",
-        "tailwindcss": "^1.9.6",
-        "vue": "^2.6.14",
-        "vue-loader": "^15.9.7",
-        "vue-template-compiler": "^2.6.14"
+    "dependencies": {
+        "@tailwindcss/postcss": "^4.1.0",
+        "postcss": "^8.5.1",
+        "postcss-cli": "^11.0.0",
+        "prettier": "^3.4.2",
+        "prettier-plugin-go-template": "^0.0.15",
+        "prettier-plugin-tailwindcss": "^0.6.11",
+        "tailwindcss": "^4.1.0"
     }
 }
