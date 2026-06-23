@@ -39,8 +39,8 @@ blocks:
       - "Basic | https://mbasic.facebook.com"
       - "Basic Messenger | https://mbasic.facebook.com/messages/?ref_component=mbasic_home_header&amp;ref_page=%2Fwap%2Fhome.php&amp;refid=8"
   - row:
-      - "Twitter | https://twitter.com/home"
-      - "Trends | https://twitter.com/i/trends"
+      - "X | https://x.com/home"
+      - "Trends | https://x.com/i/trends"
       - "Reddit | https://www.reddit.com/"
       - "r/Philippines | https://www.reddit.com/r/Philippines/"
   - row:
