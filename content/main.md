@@ -99,15 +99,13 @@ blocks:
       - "SmartTubeNext | https://github.com/yuliskov/SmartTubeNext"
   - row:
       - "The House of Portable | https://thehouseofportable.com/?home=1 | hidden"
-  - title: "News"
+  - title: "News and Media"
     row:
       - "Google News | https://news.google.com/?hl=en-PH&gl=PH&ceid=PH:en"
       - "AllSides | https://www.allsides.com/unbiased-balanced-news"
-  - title: "Media"
-    row:
+  - row:
       - "Spotify | https://open.spotify.com/"
-  - title: "TV"
-    row:
+  - row:
       - "Sky Cable | https://www.mysky.com.ph/metromanila"
       - "Promos | https://www.mysky.com.ph/metromanila/promos"
       - "Service Advisories | https://www.mysky.com.ph/help-service-advisories"
